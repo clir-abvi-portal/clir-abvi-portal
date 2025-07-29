@@ -1,0 +1,18 @@
+---
+# panorama item layout
+# Displays image_small if available, with fall back to object_location. 
+# Adds gallery view to open images full screen using object_location, with fall back to image_small.
+layout: item/item-page-base
+---
+
+<div class="mb-4 text-center">
+
+    {% include item/panorama.html %}
+    
+    <div class="my-2">
+
+        {% include item/download-buttons.html %}
+
+    </div>
+
+</div>
