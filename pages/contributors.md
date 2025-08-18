@@ -1,39 +1,79 @@
 ---
-title: About the Contributors
+title: Partner content
 layout: about
-permalink: /contributors.html
+permalink: /partners.html
 # include CollectionBuilder info at bottom
-credits: true
-# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
-# set background-position for featured image, "center", "top", "bottom"
-position: bottom
-# major heading to display over featured image
-heading: About the Collection
-# paragraph text below heading in featured image
-sub-heading: 
-# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
+credits: false
+accessibility: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+{% include feature/jumbotron.html heading="Explore Related Grant Partner Collections" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+{% include feature/nav-menu.html sections="African American Museum of Iowa;Des Moines Public Library;Fort Des Moines Museum;Grinnell College;Grout Museum District;Nodaway Valley Historical Museum;State Historical Society of Iowa;Iowa State University" %}
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## African American Museum of Iowa
+Brief summary of what partner does.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Text summarizing partner's contributions to the portal.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ... 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+<a href="https://www.example.com" target="_blank" class="btn btn-success">African American Museum of Iowa</a>
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+## Des Moines Public Library
+Brief summary of what partner does.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+
+<a href="https://www.example.com" target="_blank" class="btn btn-success">Des Moines Public Library</a>
+
+## Fort Des Moines Museum
+Brief summary of what partner does.
+
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+
+<a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+
+## Grinnell College
+Brief summary of what partner does.
+
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+
+<a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+
+## Partner [name]
+Brief summary of what partner does.
+
+Text summarizing partner's contributions to the portal.
+
+Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+
+<a href="https://www.example.com" target="_blank" class="btn btn-success">Grout Museum District</a>
+
+## All Partners Listed as above
+
+....
+
+<!-- <a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">Grout Museum District</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">Iowa State University</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">State Historical Society of Iowa</a>
+
+<div class="text-center">
+  <img src="https://via.placeholder.com/140" class="rounded-circle" width="140" height="140" alt="Iowa State University" />
+  <h2 class="mt-3">Iowa State University</h2>
+  <p>Explore Iowa State.</p>
+  <a href="https://www.iastate.edu" target="_blank" class="btn btn-success">Visit Iowa State</a>
+</div>
+-->

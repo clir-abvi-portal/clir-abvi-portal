@@ -1,39 +1,20 @@
 ---
-title: About the Project
+title: The Grant Project
 layout: about
 permalink: /project.html
 # include CollectionBuilder info at bottom
-credits: true
-# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
-# set background-position for featured image, "center", "top", "bottom"
-position: bottom
-# major heading to display over featured image
-heading: About the Collection
-# paragraph text below heading in featured image
-sub-heading: 
-# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
+credits: false
+accessibility: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+{% include feature/jumbotron.html heading="About the Grant Project" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+{% include feature/nav-menu.html sections="Support;Grant Project Summary" %}
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## Support
+This project was supported by a Digitizing Hidden Collections grant from the [Council on Library and Information Resources (CLIR)](https://www.clir.org/). The grant program is made possible by funding from the Mellon Foundation.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+## Grant Project Summary
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere lectus at risus finibus, vel gravida felis tincidunt. Quisque tincidunt volutpat ipsum quis auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent molestie volutpat est. Aenean efficitur ipsum id mi bibendum viverra. Quisque gravida ut turpis nec faucibus. Maecenas sed ante pharetra, consequat nulla in, cursus velit. Pellentesque lobortis fringilla elit a pulvinar. Nam in urna at nibh pharetra mollis id dictum augue. Aenean consectetur tellus eu augue lacinia tincidunt. Pellentesque blandit pharetra pulvinar. Nullam dolor purus, consequat a magna sit amet, elementum tristique magna. Mauris maximus vulputate velit, non pulvinar metus efficitur nec.

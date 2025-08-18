@@ -1,39 +1,25 @@
 ---
-title: About The Bystander
+title: The Bystander
 layout: about
 permalink: /bystander.html
 # include CollectionBuilder info at bottom
-credits: true
-# featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
-# set background-position for featured image, "center", "top", "bottom"
-position: bottom
-# major heading to display over featured image
-heading: About the Collection
-# paragraph text below heading in featured image
-sub-heading: 
-# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
+credits: false
+accessibility: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+{% include feature/jumbotron.html heading="Explore The Bystander Newspaper" text=false position=top objectid="https://www.thecivicseason.com/wp-content/uploads/2022/05/SHMI_CivilRights-WWI-WWII.jpg" %} 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/nav-menu.html sections="The Bystander Issues Location;The Bystander Background" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+## The Bystander Issues Location
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+To search and browse issues of The Bystander, you will need to leave this site. The Bystander has its own, separate collection: [The Bystander Digital Collection](https://www.lib.uidaho.edu/digital/argonaut/).
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## What is The Bystander?
+Brief history and summary of content.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+<br>
+{% include feature/image.html objectid="https://static.wixstatic.com/media/3c9d51_fedf0f1f03974d259dc617682ebe353e~mv2.png/v1/fill/w_624,h_468,al_c,lg_1,q_85,enc_avif,quality_auto/3c9d51_fedf0f1f03974d259dc617682ebe353e~mv2.png" width="75" %}
