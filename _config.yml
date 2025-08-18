@@ -73,3 +73,11 @@ exclude: [docs/, Rakefile, rakelib/, README.md, LICENSE, CITATION.cff, CODE_OF_C
 # compress CSS output
 sass:
   style: compressed
+
+
+# config-browse add:
+# - option to not include newspapers in search
+# - contributer
+
+# config-browse delete:
+# - identifier field
