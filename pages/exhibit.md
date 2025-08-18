@@ -242,4 +242,3 @@ Ms. Mays married W. E. Young on January 8, 1917 in Newton. The couple divorced a
 She was divorced from Mr. Thomas in 1929\. She then married David Mash  in Indianola in 1935\. She served in various roles for the Bethel AME Church in Des Moines. Her funeral was held at Bethel AME Church, and she was buried in Glendale Cemetery.  
 [https://www.findagrave.com/memorial/83676116/lettie-mash](https://www.findagrave.com/memorial/83676116/lettie-mash)
 
-{% include cb/about_the_about.md %} 
