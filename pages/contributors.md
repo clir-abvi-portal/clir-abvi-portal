@@ -1,7 +1,7 @@
 ---
 title: Partner content
 layout: about
-permalink: /partners.html
+permalink: /contributors.html
 # include CollectionBuilder info at bottom
 credits: false
 accessibility: false
@@ -14,7 +14,7 @@ accessibility: false
 {% include feature/nav-menu.html sections="African American Museum of Iowa;Des Moines Public Library;Fort Des Moines Museum;Grinnell College;Grout Museum District;Nodaway Valley Historical Museum;State Historical Society of Iowa;Iowa State University" %}
 
 ## African American Museum of Iowa
-Brief summary of what partner does.
+Brief summary of partners.
 
 Text summarizing partner's contributions to the portal.
 

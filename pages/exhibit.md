@@ -9,6 +9,7 @@ accessibility: False
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/jumbotron.html heading="Explore The Bystander Newspaper" text=false position=top objectid="https://www.thecivicseason.com/wp-content/uploads/2022/05/SHMI_CivilRights-WWI-WWII.jpg" %} 
 
 {% include feature/nav-menu.html sections="Vignettes;" %}
 
