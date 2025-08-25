@@ -9,17 +9,16 @@ accessibility: False
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="Explore The Bystander Newspaper" text=false position=top objectid="https://www.thecivicseason.com/wp-content/uploads/2022/05/SHMI_CivilRights-WWI-WWII.jpg" %} 
+{% include feature/jumbotron.html heading="Vignettes of Des Moines: Religious Leaders' Biographies and Church Histories" text=false position=top objectid="https://www.thecivicseason.com/wp-content/uploads/2022/05/SHMI_CivilRights-WWI-WWII.jpg" %} 
 
-{% include feature/nav-menu.html sections="Vignettes;" %}
+{% include feature/nav-menu.html sections="Biographies;Church Histories" %}
 
-**Individual Vignettes and Church Histories**
+# **BIOGRAPHIES**
 
-**Biographies**
-
-1. **Robinson, George Warren** 
+## Robinson, George Warren 
 
 **(April 15, 1883-September 30, 1948\)**  
+
 Longtime minister of Corinthian Baptist Church in Des Moines and civil rights leader in Des Moines. 
 
 George Warren Robinson was born in Bennettsville, S.C. and graduated from Benedict College, Columbia, S.C in 1910\. The *Iowa Bystander* noted he was to be conferred a Doctor of Divinity at the college’s graduation on May 6, 1918\.  He was referenced as pastor-elect for Corinthian Baptist Church  in the *Bystander* March 9, 1917 and was confirmed as reported in the *Bystander* of April 19, 1918\. He also listed that role as his occupation on his selective service card in September 1918\. He served in this role until his death in 1948\. 
@@ -28,7 +27,9 @@ In 1912 he married Leona Crockett in Texas. The couple moved to Des Moines by ea
 
 Reverend Robinson was a charter member and past president of Des Moines Interracial Commission (founded in about 1925); and a founder of the Crocker branch of the Y.M.C.A. He was active in the community including the NAACP and other community groups; preached at White churches on race relations including Central Presbyterian in 1926\. He is buried at [Glendale Cemetery](https://www.findagrave.com/memorial/104404216/george-w-robinson). 
 
-2. **McCraven, Henry** 
+{% include feature/image.html objectid="bystander_002" width="25" %}
+
+## **McCraven, Henry** 
 
 **(July 1854 \- March 26, 1942\)**  
 AME and non-denominational minister, long-time AME Sunday school teacher, porter at the Iowa State House
@@ -39,16 +40,16 @@ For a short time he left St. Paul and worked with another church. The *Bystander
 
 He was described as one of the most widely known Black residents of Des Moines in 1926\. He was employed as a porter for the Iowa legislature. It is known he delivered the opening prayer at multiple legislative sessions and for Iowa Senate sessions multiple times in late 1933 and early 1934\. He was honored with a picnic at Good Park on July 4, 1935 by the Better Government League. He is buried in [Woodland Cemetery](https://www.findagrave.com/memorial/57121634/henry-mccraven).
 
-3. **Brent, Albert (A.) Ross** 
+##  **Brent, Albert (A.) Ross** 
 
-**(June 9, 1907 \- December 3, 1984\)**  
+ **(June 9, 1907 \- December 3, 1984\)**  
 Baptist minister in the 1930s, founder of the Progressive National Baptist Convention
 
 A. Ross Brent was born in Bunceton, Missouri on June 9, 1907 and attended college at Fisk University. He received his doctorate degree in divinity from Western Baptist Seminary in Kansas City, Missouri. Married Doris Brent, and later married to Beulah Brent.
 
 Rev. Dr. Brent was announced as the pastor for the new Maple St. Baptist Church at E. 16th and Maple St. in the *Des Moines Tribune* of January 1, 1933\. An unknown disagreement led to his attempted removal in the spring of 1938\. He retained his position and served until March of 1941\. He then took a position at Shiloh Baptist Church in Plainfield, New Jersey. He died there on December 3, 1984 and is buried in [Hillside Cemetery](https://www.findagrave.com/memorial/154111824/a-ross-brent) in Scotch Plains, N.J.
 
-4. **Bates, Samuel** 
+##  **Bates, Samuel** 
 
 **(March 2, 1849 \- December 5, 1930\)**  
 Baptist minister across southern and central Iowa
@@ -57,7 +58,7 @@ Samuel Bates was born in Virginia before the Civil War and lived there as late a
 
 Rev. Bates served at multiple churches in the early 1900s including at Corinthian Baptist in Des Moines in 1901, at Galilee Baptist in Evans in Mahaska County in 1903, and Clarinda in southwest Iowa in 1906\. He returned to central Iowa serving in Colfax in September 1906, then returning to Des Moines in 1907 to serve at Maple Street Baptist Church. He was a pastor there until his death in 1930\. He is buried at [Laurel Hill Cemetery](https://www.findagrave.com/memorial/33080149/samuel-bates) in Des Moines.
 
-5. **Lucas, Jerry Louis**
+##  **Lucas, Jerry Louis**
 
 (March 2, 1879 \- June 1, 1940\)  
 Central Iowa Baptist pastor, Des Moines barber from mid-1910s to 1940
@@ -66,7 +67,7 @@ Born in Alexandria, Louisiana, Rev. Jerry L. Lucas lived in Des Moines but also 
 
 Rev. Lucas had a barbershop in Des Moines by 1909 as he appeared in the Des Moines City Directory listed as Jeremiah L. Lucas. He is referenced as being in Perry on March 9, 1917 as pastor but it was inferred he travelled from Des Moines. The May 14, 1920 *Bystander* noted he was the pastor at Fort Dodge. At the time of his death in 1940, the Des Moines Register noted his ministry in those locales, but reported he was serving Shiloh Baptist Church. He had been part of the groundbreaking for that church at 1317 SE Scott in 1937\.  It was noted he served in the “ministerial alliance” and the NAACP. He is buried in [Glendale Cemetery](https://www.findagrave.com/memorial/71922108/jerry-l-lucas)
 
-6. **Hunter, Price M.**
+##  **Hunter, Price M.**
 
 February 15, 1865 \- October 3, 1936
 
@@ -76,7 +77,7 @@ Hunter came to central Iowa by the late 1890s as he received mention in the *Bys
 
 Among his religious functions was to assist with a convention for Sunday Schools for African Baptists in the northwest in 1907, and he served as superintendent of the Maple St. Baptist Church in 1908, and choir director by 1918\. A 1936 story reporting his death in the *Des Moines Register* noted he was “an active member of Maple St. Baptist Church.” He is buried in [Glendale Cemetery](https://www.findagrave.com/memorial/186252981/price-h-hunter)
 
-7. **Terrell, George Overton**
+##  **Terrell, George Overton**
 
 (April 10 1858 \- December 10, 1931\) ,   
 Pastor in Colfax, a coal miner, leader in of the Odd Fellows 
@@ -87,7 +88,7 @@ Listed as a speaker at the Baptist Sunday School Convention in Des Moines in 191
 
 Photo in Patten, Reverend George O. and Elvira Terrell family in front of their residence at 1116 11th Street. 
 
-8. **Guy, William Elihu** 
+##  **Guy, William Elihu** 
 
 (1870/April 24, 1874 \- December 17, 1954\)
 
@@ -99,7 +100,7 @@ He pastored at St. Paul AME Church in Des Moines from 1930 through late 1932, ha
 
 [https://www.newspapers.com/image/325166999/?match=1\&terms=%22e.%20guy%22](https://www.newspapers.com/image/325166999/?match=1&terms=%22e.%20guy%22)
 
-9. **Davis, Ruth Bell**
+##  **Davis, Ruth Bell**
 
 (December 14, 1910 \-)  
 Church vocalist and YWCA devotee
@@ -111,7 +112,7 @@ She was on the program as a soloist for the installation of Rev. A. Ross Brent a
 By 1936 she had moved to Chicago but was married in Des Moines on June 30\. She returned to Des Moines for a 1952 concert at Corinthian Baptist Church, it was stated she had returned from a five month international tour. She later lived in Los Angeles. Her death date and burial location are not known.
 
 
-10. **Tutt, Jordan William  see Patten item \- 1995.002.1303** 
+##  **Tutt, Jordan William  see Patten item \- 1995.002.1303** 
 
 **(**November 29, 1872 \- January 19, 1942\)    (Death certificate)
 
@@ -126,7 +127,7 @@ Union Baptist, 1934, E. 15th and University, J. W. Tutt (Union Missionary Baptis
 (18 \- 1-19-1942, check)  
 Good clipping in March 9, 1920, photo in Davenport, photo in Des Moines June 8, 1931 \- CHurch history too
 
-11. **Wilson, Harry Eben**
+##  **Wilson, Harry Eben**
 
 (February 19, 1884 \- September 10, 1943\)
 
@@ -135,7 +136,7 @@ A Des Moines resident by 1914, Harry E. Wilson was a leader in the community in 
 
 He participated in the NAACP in Des Moines and served on its executive committee. Wilson was listed among those on the program for the installation of Rev. A. Ross Brent as pastor for the Maple Street Baptist Church on April 27, 1928\. He remained a member of that church. His funeral services were held there and he is [buried in Glendale Cemetery](https://www.findagrave.com/memorial/83812061/harry-eben-wilson).
 
-12. **Watlington, Andrew** 
+##  **Watlington, Andrew** 
 
 (December 14, 1890 \- February 1971\)
 
@@ -145,7 +146,7 @@ A native of North Carolina, Mr. Watlington arrived in Des Moines by 1917 as he r
 
 He was widowed in 1920 but remained in Des Moines through 1932\. Watlington was listed as junior steward for the Doric Lodge in 1920\. He is listed on the program with Harry E. Wilson for the installation of Rev. A. Ross Brent as pastor of the Maple Street Baptist Church on April 27, 1928\. He later moved to Kansas City and then Colorado. His exact death date and burial location are unknown at this time.
 
-13. **Wheeler, Claude B.** 
+##  **Wheeler, Claude B.** 
 
 (June 4, 1893 \-no additional ancestry )
 
@@ -154,7 +155,7 @@ A native of Moberly, Missouri, Claude Wheeler married Dorothy Allen in Des Moine
 
 He moved to St. Paul, Minn. to serve as a minister, but sometimes returned to Des Moines. He was a guest pastor in 1936 and 1941 at Union Baptist CHurch. He visited Corinthian Baptist Church in 1943\. He continued to serve as a minister in St. Paul into 1959\. He is referenced as the **late C. B. Wheeler** in a St. Paul Recorder story on September 30, 1960\. His death date and burial location are unknown at this time.
 
-14. **. Brumfield, Thomas Mason** 
+##  **Brumfield, Thomas Mason** 
 
 (December 14, 1883 \- August 7, 1967\)
 
@@ -164,7 +165,7 @@ A native of Bowling Green Kentucky, and graduate of Oberlin College in Ohio, Rev
 
 He finished an M.A. from University of Chicago in 1928 while he taught at Fisk University. He published a study of Black churches in Nashville. He died there in 1967 and was [buried in Greenwood Cemetery in Nashville](https://www.findagrave.com/memorial/201232207/thomas-mason-brumfield).
 
-15. **Moore, Steward Benjamin**
+##  **Moore, Steward Benjamin**
 
 (December  4, 1864 \- August 25, 1920\)
 
@@ -176,7 +177,7 @@ In September 1911 he was made Presiding Elder of the Des Moines District for the
 
 He became a pastor with a church again by 1917 at the Keokuk AME Church. He participated in ceremonies in Keokuk when Black men went into service in 1917 and 1918\. He became pastor of Bethel AME Church in Davenport. He died of a stroke there and is [buried in Linwood Cemetery, Galesburg, Ill.](https://www.findagrave.com/memorial/232026748/steward-benjamin-moore)
 
-16. **Graves, Horace Stepney** 
+##  **Graves, Horace Stepney** 
 
 (Born about 1870 \- July 4, 1913\)
 
@@ -190,7 +191,7 @@ He came to Des Moines in May 1902 and served at St. Paul AME until 1906\. He led
 
 Rev. Graves became pastor of the Ebenezer AME Church in Evanston, Ill. in 1911\. He ministered there until facing health problems in early 1913\. He traveled to North Carolina for care by April but never fully recovered. He died there in July and funeral services and his burial was in Evanston.
 
-17. **Webb Bayles, Clara** 
+##  **Webb Bayles, Clara** 
 
 (October 1, 1909 \- June 10, 1973\)
 
@@ -200,7 +201,7 @@ Musician for installation of Rev. A. Ross Brent as pastor at Corinthian Baptist 
 
 She would be prominent in the Des Moines National Association for the Advancement of Colored People. Webb Bayles served as president of the organization having been elected in 1956 and vice president beginning in 1966\. A 1974 report noted she was a three time president of the group. She led an interracial book group in 1959 and is pictured in the *Des Moines Register* of November 11,1959 with Martin Luther King, Jr. following King’s visit to Des Moines. Webb Bayles led a forum on race in 1962\. She remained active in central Iowa activities providing programs on travel to Africa and Black history programs. She is [buried in Glendale Cemetery](https://www.findagrave.com/memorial/101421519/clara-bayles).
 
-18. **Phipps Cox, Fannie** 
+##  **Phipps Cox, Fannie** 
 
 (about 1869  \- December 17, 1954\)
 
@@ -210,7 +211,7 @@ Born in Kentucky as the daughter of Civil War veteran John Phipps and Sarah Narc
 
 She participated and led church activities at Maple St. Baptist Church by the early 1910s. A 1911 report in the Bystander noted she assisted with planning the church’s Thanksgiving program. In 1917 she was on the program for the Western Baptist Convention in Des Moines. She participated in community activities including a meeting at St. Paul AME Church mentioned in the Bystander of October 7, 1920\. She assisted with the program for the installation of Rev. A. Ross Brent at Maple St. Baptist Church on April 27, 1928\.  In her death notice it was reported she had worked for Maple St. Baptist Church for 45 years. She is [buried in Glendale Cemetery](https://www.findagrave.com/memorial/185404614/fannie-cox).
 
-19. **Garland, Freida Mary**
+##  **Garland, Freida Mary**
 
 (December 5, 1909 \- March 10, 1973\)
 
@@ -220,7 +221,7 @@ Born in Higbee, Missouri, her mother Esther Brooks married William Garland of En
 
 Ms. Garland lived her life in Des Moines and later had a career as a clerk with the Des Moines Register & Tribune Syndicate. She assisted with the program for the installation of Rev. A. Ross Brent at Maple St. Baptist Church on April 27, 1928\. She presumably continued to be a member of that church as her mother’s services were there in 1944\. She looks to have converted to Catholicism as her funeral was held on March 12, 1973 at St. Ambrose Cathedral. She is [buried in Glendale Cemetery](https://www.findagrave.com/memorial/102300052/frieda-m-garland). 
 
-20. **Williams, Vera Elizabeth Mays**
+##  **Williams, Vera Elizabeth Mays**
 
 (June 1, 1897 \- February 14, 1964\)   
 Vocalist and Methodist elder
@@ -230,7 +231,7 @@ Born and raised in Newton, Iowa, from a noted family as her father Lewis Mays se
 Ms. Mays married James Williams sometime around 1915\. She is listed as Vera Williams as a vocalist in a duet with her sister Lettie in the program for the installation of Rev. A. Ross Brent at Maple St. Baptist Church on April 27, 1928\. She assisted with women’s and church activities at Bethel AME Church in the years following World War II. Her funeral services were held at Bethel AME and she was buried in Glendale Cemetery  
 [https://www.findagrave.com/memorial/104733882/vera\_e-williams](https://www.findagrave.com/memorial/104733882/vera_e-williams)
 
-21. **Mash, Lettie Mays Young Thomas**
+##  **Mash, Lettie Mays Young Thomas**
 
 (September 4, 1901 \- April 15, 1967\)   
 Vocalist and Methodist elder
