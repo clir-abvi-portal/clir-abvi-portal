@@ -22,6 +22,7 @@ padding: 6em
 
 # Dwain Coleman
 **Affiliation:** University of Utah
+
 **Area of Interest/Expertise:** African American History, Civil War Era, Environmental History, Latter-day Saints, and Native American History
 
 Dr. Dwain Coleman is an assistant professor of history at the University of Utah, studying the history of African Americans, the Civil War era, the environment, Latter-day Saints, and Native Americans. He is currently working on a book that examines how Black Civil War veterans and their communities utilized the political capital of Black military service to redefine American citizenship in their fight to secure equal rights and build communities. Dr. Coleman is also the co-director of the Iowa Colored Conventions Digital Project, which examines the transformative 19th-century national civil rights movement known as the colored conventions movement in Iowa.
