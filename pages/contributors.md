@@ -14,13 +14,30 @@ accessibility: false
 {% include feature/nav-menu.html sections="African American Museum of Iowa;Des Moines Public Library;Fort Des Moines Museum;Grinnell College;Grout Museum District;Nodaway Valley Historical Museum;State Historical Society of Iowa;Iowa State University" %}
 
 ## African American Museum of Iowa
-Brief summary of partners.
+The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibit, and teach the African American heritage of Iowa. The AAMI is committed to preserving African American history to ensure that future generations can learn from and connect with their heritage. We are contributors to the grant due to the nature of our institution.
 
-Text summarizing partner's contributions to the portal.
+### Related Materials
 
-Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ... 
+Related material(s) can be found through the AAMI online collections site [here](https://blackiowa.pastperfectonline.com/) or by pasting this link into your browser https://blackiowa.pastperfectonline.com/.
 
-<a href="https://www.example.com" target="_blank" class="btn btn-success">African American Museum of Iowa</a>
+### Portal Collections
+
+African American Museum of Iowa contributed material from four archival collections and three archival newspaper collections:
+
+Newspapers
+Hard copies of African American newspapers from Iowa, including _The Iowa Bystander_ (1955, 1968, 1971, 1975-1980), _Waterloo Star_ (1956), _Waterloo Defender_ (1972-1974), and _Waterloo Progress_ (1958).
+
+[Sepia Record](https://blackiowa.pastperfectonline.com/archive/50CF845B-8AE6-4158-8CA8-806169233910) was a Black magazine published by Davenport activists Charles and Ann Toney. Only two volumes were ever published.
+
+[Robert Patten Collection](https://blackiowa.pastperfectonline.com/archive/5A202142-898F-4D00-A89C-149457523188)
+Robert Patten was an African American printery owner and activist in Des Moines. Patten saved a copy of nearly everything he produced in his print shop near Center Street in Des Moines preserving valuable information on a number of African American clubs and businesses.
+
+[Viola Gibson collection-Christ Sanctified Holy Church Series](https://blackiowa.pastperfectonline.com/archive/BBEEBE44-22C6-4EA5-82DD-007625716260)
+Viola Gibson was an activist in Cedar Rapids, Iowa from 1940-1989 known for reinstating the NAACP in the city in the 1940s. Gibson was also a minister in the Christ Sanctified Holy Church in Cedar Rapids. 
+
+[H. Robert Wilson Collection - United Grand Hall Lodge of Iowa (PHA) series](https://blackiowa.pastperfectonline.com/archive/F4BC093E-D5A2-4AF6-B3CF-922237352813) contains documents relating to the incorporation of the Lodge as well as its operations including reports, meeting minutes, correspondence, programs, and events. 
+
+Part of the collection also contains a subseries related to S. Joe Brown and Mrs. (Sue) S. Joe Brown including a booklet of the History of Central Association of Colored Women written by Sue Brown in 1940.
 
 ## Des Moines Public Library
 Brief summary of what partner does.
