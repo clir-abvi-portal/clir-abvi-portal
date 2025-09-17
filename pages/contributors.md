@@ -40,31 +40,34 @@ Viola Gibson was an activist in Cedar Rapids, Iowa from 1940-1989 known for rein
 Part of the collection also contains a subseries related to S. Joe Brown and Mrs. (Sue) S. Joe Brown including a booklet of the History of Central Association of Colored Women written by Sue Brown in 1940.
 
 ## Des Moines Public Library
-Brief summary of what partner does.
 
-Text summarizing partner's contributions to the portal.
+### Related Materials
 
-Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
-
-<a href="https://www.example.com" target="_blank" class="btn btn-success">Des Moines Public Library</a>
+### Portal Collections
 
 ## Fort Des Moines Museum
-Brief summary of what partner does.
 
-Text summarizing partner's contributions to the portal.
+### Related Materials
 
-Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
-
-<a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+### Portal Collections
 
 ## Grinnell College
-Brief summary of what partner does.
 
-Text summarizing partner's contributions to the portal.
+### Related Materials
 
-Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
+### Portal Collections
 
-<a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+## Grout Museum District
+
+### Related Materials
+
+### Portal Collections
+
+## Nodaway Valley Historical Museum
+
+### Related Materials
+
+### Portal Collections
 
 ## Iowa State University
 Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
@@ -94,19 +97,6 @@ Verda L. Williams was a Communication Specialist in ISU’s Extension Communicat
 
 Newspapers
 Microfilmed copies of early African American newspapers from Iowa, including _The Weekly Avalanche_ (1893), _Iowa Baptist Standard_ (1897), _Waterloo Defender_ (1966-1979), and _Waterloo Post_ (1952-1953).
-
-## Partner [name]
-Brief summary of what partner does.
-
-Text summarizing partner's contributions to the portal.
-
-Partners decide how to link out to related content - single button to Digital Collection, listing of related collections to explore, ...
-
-<a href="https://www.example.com" target="_blank" class="btn btn-success">Grout Museum District</a>
-
-## All Partners Listed as above
-
-....
 
 <!-- <a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
 
