@@ -52,7 +52,7 @@ Partners decide how to link out to related content - single button to Digital Co
 ## Iowa State University
 Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
 
-# Related Materials
+### Related Materials
 Search all Iowa State University’s Special Collections and University Archives with CARDinal: Cyclone Archival Research Database, or click on the links to specific collection descriptions below:
 
 * [Black Student Alliance records](https://n2t.net/ark:/87292/w9nk36b81), RS 22/3/5
@@ -65,6 +65,18 @@ Search all Iowa State University’s Special Collections and University Archives
 * [Frederick D. Patterson papers](https://n2t.net/ark:/87292/w9mz29), RS 21/7/19
 * [George Washington Carver collection](https://n2t.net/ark:/87292/w95z28), RS 21/7/2
 * [Jack Trice papers](https://n2t.net/ark:/87292/w97r5z), RS 21/7/23
+
+### Portal Collections
+Iowa State University contributed material from two archival collections and microfilmed newspapers:
+
+[Dorothy Schwieder papers](https://n2t.net/ark:/87292/w9tv24)
+Dorothy Schwieder was a professor of history at Iowa State from 1966-2001. Featured in this portal are materials from her research into Buxton, Iowa, a historical coal mining company town that was a racially-integrated community with a majority-African American population, the majority of which are transcripts of oral history interviews conducted in the early 1980s with former residents of Buxton. 
+
+[Verda Louise Williams papers](https://n2t.net/ark:/87292/w93j3w)
+Verda L. Williams was a Communication Specialist in ISU’s Extension Communication Services from 1981-1997. Featured in this portal is content related to the documentary Black Des Moines: Voices Seldom Heard, produced in 1985, including raw interviews and video footage, correspondence, and other related text documents.
+
+Newspapers
+Microfilmed copies of early African American newspapers from Iowa, including _The Weekly Avalanche_ (1893), _Iowa Baptist Standard_ (1897), _Waterloo Defender_ (1966-1979), and _Waterloo Post_ (1952-1953).
 
 ## Partner [name]
 Brief summary of what partner does.
