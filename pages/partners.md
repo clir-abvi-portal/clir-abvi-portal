@@ -3,20 +3,15 @@ title: About the Partners
 layout: about
 permalink: /partners.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
+accessibility: false
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
-about-featured-image: demo_031
 # set background-position for featured image, "center", "top", "bottom"
-position: bottom
-# major heading to display over featured image
-heading: About the Collection
-# paragraph text below heading in featured image
-sub-heading: 
-# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+{% include feature/jumbotron.html heading="About the Partners" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
 ## Advisory Committee
 
@@ -78,7 +73,11 @@ A life-long Iowan, Pregler resides in Dubuque where he researches, writes, and l
 
 # Dwana Bradley
 
-Bio Coming Soon
+**Affiliation:** Executive Director of the Des Moines Urban Experience, General Chairperson for Iowa Juneteenth, Owner of Iowa Urban Media
+
+**Area of Interest/Expertise:** Education, Public Speaking, Communication
+
+Dwana Bradley is a mother of two and a Des Moines native. She obtained her Master's degree for elementary education and literacy from Drake University. Dwana’s work supports the Des Moines community and focuses on education. She worked for Des Moines Public Schools from 2009 - 2016 when she switched her focus on profit and non-profit organizations that continued to support the Des Moines community. She is currently the Executive Director of the Des Moines Urban Experience, a magazine that focuses on education, health, fashion, arts, and culture in the Des Moines area. She is also the General Chairperson for Iowa Juneteenth for the Des Moines area and the owner of Iowa Urban Media, a magazine that empowers, educates, and elevates readers in the Des Moines area.
 
 
 
