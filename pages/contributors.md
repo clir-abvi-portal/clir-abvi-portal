@@ -55,16 +55,16 @@ Iowa State University Library supports a public land-grant university of over 30
 # Related Materials
 Search all Iowa State University’s Special Collections and University Archives with CARDinal: Cyclone Archival Research Database, or click on the links to specific collection descriptions below:
 
-[Black Student Alliance records](https://n2t.net/ark:/87292/w9nk36b81), RS 22/3/5
-[Black Cultural Center records](https://n2t.net/ark:/87292/w9rx9v), RS 7/5/4
-[Hoodies and Hijabs Solidarity March records](https://n2t.net/ark:/87292/w91g0j18c), RS 0/12/3
-[Office of Multicultural Student Affairs records](https://n2t.net/ark:/87292/w9wn32), RS 7/5
-[September 29th Movement records](http://n2t.net/ark:/87292/w9ff3m02c), RS 22/3/3
-[Iowa State University. Student Organizations – Multicultural Organizations records](https://n2t.net/ark:/87292/w9tj89), RS 22/3
-[Center for American Intercultural Studies records](https://n2t.net/ark:/87292/w96n47), RS 13/37
-[Frederick D. Patterson papers](https://n2t.net/ark:/87292/w9mz29), RS 21/7/19
-[George Washington Carver collection](https://n2t.net/ark:/87292/w95z28), RS 21/7/2
-[Jack Trice papers](https://n2t.net/ark:/87292/w97r5z), RS 21/7/23
+- [Black Student Alliance records](https://n2t.net/ark:/87292/w9nk36b81), RS 22/3/5
+- [Black Cultural Center records](https://n2t.net/ark:/87292/w9rx9v), RS 7/5/4
+- [Hoodies and Hijabs Solidarity March records](https://n2t.net/ark:/87292/w91g0j18c), RS 0/12/3
+- [Office of Multicultural Student Affairs records](https://n2t.net/ark:/87292/w9wn32), RS 7/5
+- [September 29th Movement records](http://n2t.net/ark:/87292/w9ff3m02c), RS 22/3/3
+- [Iowa State University. Student Organizations – Multicultural Organizations records](https://n2t.net/ark:/87292/w9tj89), RS 22/3
+- [Center for American Intercultural Studies records](https://n2t.net/ark:/87292/w96n47), RS 13/37
+- [Frederick D. Patterson papers](https://n2t.net/ark:/87292/w9mz29), RS 21/7/19
+- [George Washington Carver collection](https://n2t.net/ark:/87292/w95z28), RS 21/7/2
+- [Jack Trice papers](https://n2t.net/ark:/87292/w97r5z), RS 21/7/23
 
 ## Partner [name]
 Brief summary of what partner does.
