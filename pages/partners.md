@@ -1,5 +1,5 @@
 ---
-title: Advisory Committee
+title: Partner Instituions
 layout: about
 permalink: /partners.html
 # include CollectionBuilder info at bottom
@@ -11,76 +11,107 @@ accessibility: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="About the Partners" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
+{% include feature/jumbotron.html heading="Explore Related Grant Partner Collections" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
-## Dwain Coleman
-**Affiliation:** University of Utah
+{% include feature/nav-menu.html sections="African American Museum of Iowa;Des Moines Public Library;Fort Des Moines Museum;Grinnell College;Grout Museum District;Nodaway Valley Historical Museum;State Historical Society of Iowa;Iowa State University" %}
 
-**Area of Interest/Expertise:** African American History, Civil War Era, Environmental History, Latter-day Saints, and Native American History
+## African American Museum of Iowa
+The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibit, and teach the African American heritage of Iowa. The AAMI is committed to preserving African American history to ensure that future generations can learn from and connect with their heritage. We are contributors to the grant due to the nature of our institution.
 
-Dr. Dwain Coleman is an assistant professor of history at the University of Utah, studying the history of African Americans, the Civil War era, the environment, Latter-day Saints, and Native Americans. He is currently working on a book that examines how Black Civil War veterans and their communities utilized the political capital of Black military service to redefine American citizenship in their fight to secure equal rights and build communities. Dr. Coleman is also the co-director of the Iowa Colored Conventions Digital Project, which examines the transformative 19th-century national civil rights movement known as the colored conventions movement in Iowa.
+### Related Materials
 
-## Daniel H. Kaiser
+Related material(s) can be found through the AAMI online collections site [here](https://blackiowa.pastperfectonline.com/) or by pasting this link into your browser https://blackiowa.pastperfectonline.com/.
 
-Daniel H. Kaiser is Professor of History Emeritus at Grinnell College. He is the author and editor of several books and numerous articles on Russian history but in retirement has hosted a blog on Grinnell local history (grinnellstories.blogspot.com). He is also the author of Grinnell Stories: African Americans of Early Grinnell (2020) and Grinnell Stories: Lives to Remember (2024). He resides in Grinnell with his wife, Jill.
+### Portal Collections
 
-## Dr. C. Negus S. Rudison-Imhotep
-**Affiliation:** Imhotep Memory Consultancy, LLC
+African American Museum of Iowa contributed material from four archival collections and three archival newspaper collections:
 
-**Area of Interest/Expertise:** Sociologist | Cultural Memory Specialist
+Newspapers
+Hard copies of African American newspapers from Iowa, including _The Iowa Bystander_ (1955, 1968, 1971, 1975-1980), _Waterloo Star_ (1956), _Waterloo Defender_ (1972-1974), and _Waterloo Progress_ (1958).
 
-Dr. C. Negus S. Rudison-Imhotep serves as CEO of Imhotep Memory Consultancy, LLC, where he leads efforts to revitalize and preserve cultural memory across global African communities. As a renowned cultural memory specialist, his work centers on lecture series, cultural equity assessments, recruitment, global marketing strategies, and the development of international community networks. Driven by a commitment to ancestral consciousness, historical reclamation, and Pan-African empowerment, Dr. Rudison-Imhotep leverages education, strategic alliances, and grassroots engagement to advance cultural restoration. Your visionary approach to uniting dignitaries, philanthropists, creatives, and entrepreneurial leaders resonates deeply with our mission of collective upliftment and transgenerational legacy building.
+[Sepia Record](https://blackiowa.pastperfectonline.com/archive/50CF845B-8AE6-4158-8CA8-806169233910) was a Black magazine published by Davenport activists Charles and Ann Toney. Only two volumes were ever published.
 
-## Ricki King
+[Robert Patten Collection](https://blackiowa.pastperfectonline.com/archive/5A202142-898F-4D00-A89C-149457523188)
+Robert Patten was an African American printery owner and activist in Des Moines. Patten saved a copy of nearly everything he produced in his print shop near Center Street in Des Moines preserving valuable information on a number of African American clubs and businesses.
 
-Ricki King, historian and founder of Roots to Branches Genealogy. King has a bachelor's degree in history from Drake University. She has been published twice in the National Genealogical Society Quarterly Journal. Additionally, King has been a presenter for the Iowa History 101 Series, "Iowa's Black Migration: Into, Around, Out of, and Back Again." Ricki worked to help Woodland Cemetery in Des Moines be recognized by the National Park Service's National Underground Railroad Network to Freedom. King is leading an effort to bring the legacy of Iowa's Black history and places to light. She is a Board Trustee of the State Historical Society of Iowa and the Chair of the Iowa Historical Foundation.
+[Viola Gibson collection-Christ Sanctified Holy Church Series](https://blackiowa.pastperfectonline.com/archive/BBEEBE44-22C6-4EA5-82DD-007625716260)
+Viola Gibson was an activist in Cedar Rapids, Iowa from 1940-1989 known for reinstating the NAACP in the city in the 1940s. Gibson was also a minister in the Christ Sanctified Holy Church in Cedar Rapids. 
 
-## Ashley Howard
-**Affiliation:** University of Iowa
+[H. Robert Wilson Collection - United Grand Hall Lodge of Iowa (PHA) series](https://blackiowa.pastperfectonline.com/archive/F4BC093E-D5A2-4AF6-B3CF-922237352813) contains documents relating to the incorporation of the Lodge as well as its operations including reports, meeting minutes, correspondence, programs, and events. 
 
-**Area of Interest/Expertise:** African American Studies/Midwestern History
+Part of the collection also contains a subseries related to S. Joe Brown and Mrs. (Sue) S. Joe Brown including a booklet of the History of Central Association of Colored Women written by Sue Brown in 1940.
 
-Ashley Howard is assistant professor of history and African American Studies at the University of Iowa.  Her research investigates racial violence in the Midwest and her work has appeared in the Middle West Review, Journal of African American History, Labor Studies Journal, the American Historian, Smithsonian Magazine, the Washington Post, the Financial Times and numerous other popular and scholarly outlets.   In 2023, she and co-investigator Colin Gordon were awarded a Mellon Foundation grant to examine race-based property restrictions in Iowa. She serves on the board of multiple organizations including the Annals of Iowa, the Urban History Association and Black Midwest Initiative. She is the author of Midwest Unrest: 1960s Urban Rebellions and the Black Freedom Movement.
+## Des Moines Public Library
 
-## Dr. David Brodnax
+### Related Materials
 
-Dr. David Brodnax is Professor of History and History Department Chair at Trinity Christian College in Palos Heights, Illinois. His research focuses on African American social and legal history in the 19th and early 20th-century Midwest. His recent scholarly activity includes: the chapter “’Black Self-Defense in 19th-Century Iowa” for The Oxford Handbook of Midwestern History; the article “The Present and Future of Black Midwestern Historical Scholarship” for Middle West Review; and serving on the advisory boards for several public history projects. He teaches courses on American, African, and Latin American history, as well as a course at the University of Iowa College of Law, where he holds adjunct faculty status. In 2021 he was named Trinity's Professor of the Year. He earned his J.D. from Iowa College of Law and his M.A. and Ph.D. from Northwestern University.
+### Portal Collections
 
-## Diana Henry
-**Affiliation:** Johnson County Interfaith Coalition, on the social justice team at the Unitarian Universalist Society in Coralville, League of Women Voters Johnson County, South of 6 District Arts & Entertainment committee, Alpha Kappa Alpha Sorority, Inc.
+## Fort Des Moines Museum
 
-**Area of Interest/Expertise:** public education, social/ racial justice issues, advocate for the arts
+### Related Materials
 
-Diana Henry taught for over 30 years before her retirement. Her undergraduate degree is from the University of Cincinnati, a master's of education from Lincoln University, and a master’s of arts from the University of Iowa. After retirement, she took a slightly different path. She got a Certificate in Museum Studies from the University of Iowa and worked as an education assistant at the African American Museum of Iowa for almost six years. She retired from the museum in August 2020. Some of her accomplishments include:
-- Ruby Ayres-Barbara Heidger Educator Award for International Understanding,1997
-- Iowa Elementary Social Studies Teacher of the Year award in 2001 from the Iowa Council of Social Studies.
-- Cited in Who’s Who Among America’s Teachers,1999-2000 edition, and the 2004-2005 edition
-- Honored as a History Maker by the African American Museum of Iowa in 2022
-- Received a Governor’s Award in 2023 for her volunteer work.
+### Portal Collections
 
-## Abena Sankofa Imhotep
+## Grinnell College
 
-Abena Sankofa Imhotep is an author, educator, and cultural leader devoted to advancing community empowerment, literacy, and equity. She founded Sankofa Literary & Empowerment Group, celebrating African diasporic thought and nurturing emerging readers and writers. Abena is the award-winning host of Black & Privileged in America Podcast and author of Omari's Big Tree and the Mighty Djembe. She also leads The Imhotep Report, a platform for cultural, political, and social analysis. Her work insists on the boundless possibilities of Black futures grounded in literature, scholarship, and our common humanity.
+### Related Materials
 
-## John T. Pregler
-**Affiliation:** Independent Researcher/Historian/Author; member Sons of Union Veterans of the Civil War; member Society for American Baseball Research 
+### Portal Collections
 
-**Area of Interest/Expertise:** Nineteenth-century Iowa history; American Civil War history; Nineteenth-century baseball history; Upper Mississippi Valley Native American history; Iowa political history.
+## Grout Museum District
 
-A life-long Iowan, Pregler resides in Dubuque where he researches, writes, and lectures on early Iowa history as it relates to our national narrative. Pregler’s work has produced a fourth documented instance in which Abraham Lincoln visited Iowa; proved a populate image of Frederick Douglass was taken in Dubuque in April 1866; documented the playing of integrated baseball in Dubuque in the 1890s; and established the fact the American League was in part organized during meetings held in Dubuque, Charles Comiskey’s adopted hometown. Pregler’s work also includes identifying and marking the unknown and unmarked graves of those he researches including an African American Civil War veteran, Dr. Henry Rose, and an early negro leagues baseball ball player, George “Jess” “Cannonball” Jackson, both buried in Dubuque, Iowa.
+### Related Materials
 
-## Dwana Bradley
+### Portal Collections
 
-**Affiliation:** Executive Director of the Des Moines Urban Experience, General Chairperson for Iowa Juneteenth, Owner of Iowa Urban Media
+## Nodaway Valley Historical Museum
 
-**Area of Interest/Expertise:** Education, Public Speaking, Communication
+### Related Materials
 
-Dwana Bradley is a mother of two and a Des Moines native. She obtained her Master's degree for elementary education and literacy from Drake University. Dwana’s work supports the Des Moines community and focuses on education. She worked for Des Moines Public Schools from 2009 - 2016 when she switched her focus on profit and non-profit organizations that continued to support the Des Moines community. She is currently the Executive Director of the Des Moines Urban Experience, a magazine that focuses on education, health, fashion, arts, and culture in the Des Moines area. She is also the General Chairperson for Iowa Juneteenth for the Des Moines area and the owner of Iowa Urban Media, a magazine that empowers, educates, and elevates readers in the Des Moines area.
+### Portal Collections
 
+## Iowa State University
+Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
 
+### Related Materials
+Search all Iowa State University’s Special Collections and University Archives with CARDinal: Cyclone Archival Research Database, or click on the links to specific collection descriptions below:
 
+* [Black Student Alliance records](https://n2t.net/ark:/87292/w9nk36b81), RS 22/3/5
+* [Black Cultural Center records](https://n2t.net/ark:/87292/w9rx9v), RS 7/5/4
+* [Hoodies and Hijabs Solidarity March records](https://n2t.net/ark:/87292/w91g0j18c), RS 0/12/3
+* [Office of Multicultural Student Affairs records](https://n2t.net/ark:/87292/w9wn32), RS 7/5
+* [September 29th Movement records](http://n2t.net/ark:/87292/w9ff3m02c), RS 22/3/3
+* [Iowa State University. Student Organizations – Multicultural Organizations records](https://n2t.net/ark:/87292/w9tj89), RS 22/3
+* [Center for American Intercultural Studies records](https://n2t.net/ark:/87292/w96n47), RS 13/37
+* [Frederick D. Patterson papers](https://n2t.net/ark:/87292/w9mz29), RS 21/7/19
+* [George Washington Carver collection](https://n2t.net/ark:/87292/w95z28), RS 21/7/2
+* [Jack Trice papers](https://n2t.net/ark:/87292/w97r5z), RS 21/7/23
 
+### Portal Collections
+Iowa State University contributed material from two archival collections and microfilmed newspapers:
 
+[Dorothy Schwieder papers](https://n2t.net/ark:/87292/w9tv24)
+Dorothy Schwieder was a professor of history at Iowa State from 1966-2001. Featured in this portal are materials from her research into Buxton, Iowa, a historical coal mining company town that was a racially-integrated community with a majority-African American population, the majority of which are transcripts of oral history interviews conducted in the early 1980s with former residents of Buxton. 
 
+[Verda Louise Williams papers](https://n2t.net/ark:/87292/w93j3w)
+Verda L. Williams was a Communication Specialist in ISU’s Extension Communication Services from 1981-1997. Featured in this portal is content related to the documentary Black Des Moines: Voices Seldom Heard, produced in 1985, including raw interviews and video footage, correspondence, and other related text documents.
 
+Newspapers
+Microfilmed copies of early African American newspapers from Iowa, including _The Weekly Avalanche_ (1893), _Iowa Baptist Standard_ (1897), _Waterloo Defender_ (1966-1979), and _Waterloo Post_ (1952-1953).
 
+<!-- <a href="https://www.example.com" target="_blank" class="btn btn-success">Grinnell College</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">Grout Museum District</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">Iowa State University</a>
+
+// <a href="https://www.example.com" target="_blank" class="btn btn-success">State Historical Society of Iowa</a>
+
+<div class="text-center">
+  <img src="https://via.placeholder.com/140" class="rounded-circle" width="140" height="140" alt="Iowa State University" />
+  <h2 class="mt-3">Iowa State University</h2>
+  <p>Explore Iowa State.</p>
+  <a href="https://www.iastate.edu" target="_blank" class="btn btn-success">Visit Iowa State</a>
+</div>
+-->
