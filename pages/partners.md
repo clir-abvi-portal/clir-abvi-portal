@@ -16,9 +16,6 @@ accessibility: false
 {% include feature/nav-menu.html sections="African American Museum of Iowa;Des Moines Public Library;Fort Des Moines Museum;Grinnell College;Grout Museum District;Nodaway Valley Historical Museum;State Historical Society of Iowa;Iowa State University" %}
 
 ## African American Museum of Iowa
-The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibit, and teach the African American heritage of Iowa. The AAMI is committed to preserving African American history to ensure that future generations can learn from and connect with their heritage. We are contributors to the grant due to the nature of our institution.
-
-### Related Materials
 
 Related material(s) can be found through the AAMI online collections site [here](https://blackiowa.pastperfectonline.com/) or by pasting this link into your browser https://blackiowa.pastperfectonline.com/.
 
@@ -72,9 +69,7 @@ Part of the collection also contains a subseries related to S. Joe Brown and Mrs
 ### Portal Collections
 
 ## Iowa State University
-Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
 
-### Related Materials
 Search all Iowa State University’s Special Collections and University Archives with CARDinal: Cyclone Archival Research Database, or click on the links to specific collection descriptions below:
 
 * [Black Student Alliance records](https://n2t.net/ark:/87292/w9nk36b81), RS 22/3/5
