@@ -40,31 +40,29 @@ Part of the collection also contains a subseries related to S. Joe Brown and Mrs
 
 ## Des Moines Public Library
 
-### Related Materials
 
 ### Portal Collections
 
 ## Fort Des Moines Museum
 
-### Related Materials
 
 ### Portal Collections
 
 ## Grinnell College
 
-### Related Materials
 
 ### Portal Collections
 
 ## Grout Museum District
 
-### Related Materials
+The Grout Museum District contributed disparate materials covering aspects of African American life in Waterloo from the 1920s to the present.  Included are newspapers and documents, political materials, and objects.  Subjects covered range from domestic life to politics and protests, with special emphasis on the George Floyd Protests of 2020.
 
 ### Portal Collections
 
+Search all Grout Museum District contributed materials.
+
 ## Nodaway Valley Historical Museum
 
-### Related Materials
 
 ### Portal Collections
 
