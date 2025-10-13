@@ -96,7 +96,7 @@ The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibi
 
 
 ### Grout Museum District
-
+Located in Waterloo, Iowa in the heart of the Cedar Valley, the Grout Museum District (GMD) provides a better understanding of our world by collecting, preserving and interpreting history and illustrating scientific principles. The Grout Museum collects, preserves and interprets cultural and natural history of the region; the Rensselaer Russell House Museum and the Snowden House preserve and interpret elements of the Victorian age; the Bluedorn Science Imaginarium provides exhibitions and programming that inspire the study of the sciences. And the Sullivan Brothers Iowa Veterans Museum honors the service and sacrifice of Iowa veterans from the Civil War to present. 
 
 ### Nodaway Valley Historical Museum
 
