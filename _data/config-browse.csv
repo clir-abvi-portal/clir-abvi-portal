@@ -1,14 +1,14 @@
-field,display_name,btn,hidden,sort_name
+field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date
-personal_creator,Creator,true,,
-corporate_creator,,true,,
+personal_creator,Creator,true,,,Creator
+corporate_creator,,true,,,Corporate Creator
 personal_contributor,Contributor,true,,
 corporate_contributor,,true,,
 subject,Subjects,true
-personal_name_subject,,true
-corporate_name_subject,,true
+personal_name_subject,,true,,,Person Name
+corporate_name_subject,,true,,,Corporate Name
 location,Location,true
 genre,Genre,true
 type,,,true
 objectid,,,true,Identifier
-contributing_institution,Contributing Institution,,true,,
+contributing_institution,Contributing Institution,,true,,Contributing Institution
