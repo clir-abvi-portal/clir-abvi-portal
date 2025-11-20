@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
 Search,/search.html
-Visualizations,
 Resources,/resources.html,
+Visualizations,
 Subjects,/subjects.html,Visualizations
 Locations,/locations.html,Visualizations
 Map,/map.html,Visualizations
