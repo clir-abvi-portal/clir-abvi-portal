@@ -13,46 +13,48 @@ accessibility: false
 
 {% include feature/nav-menu.html sections="Contributors;Advisory Board;Partners;Staff & Partner Staff Acknowledgements" %}
 
-The Amplifying Black Voices in Iowa CLIR funded grant is has been made possible through the combined efforts of our advisory bard, parnter institutions, and our starf and parnter staff. They have generously contriubted their time, effort, expertise, and resources to make this project possible.
+The **Amplifying Black Voices in Iowa** CLIR funded grant is has been made possible through the combined efforts of our advisory bard, partner institutions, and our staff and partner staff. They have generously contributed their time, effort, expertise, and resources to make this project possible.
 
 ## Advisory Board
 ### Dwain Coleman
-**Affiliation:** University of Utah
-
-**Area of Interest/Expertise:** African American History, Civil War Era, Environmental History, Latter-day Saints, and Native American History
+* **Affiliation:** University of Utah
+* **Area of Interest/Expertise:** African American History, Civil War Era, Environmental History, Latter-day Saints, and Native American History
 
 Dr. Dwain Coleman is an assistant professor of history at the University of Utah, studying the history of African Americans, the Civil War era, the environment, Latter-day Saints, and Native Americans. He is currently working on a book that examines how Black Civil War veterans and their communities utilized the political capital of Black military service to redefine American citizenship in their fight to secure equal rights and build communities. Dr. Coleman is also the co-director of the Iowa Colored Conventions Digital Project, which examines the transformative 19th-century national civil rights movement known as the colored conventions movement in Iowa.
 
 ### Daniel H. Kaiser
+* **Affiliation:** Grinnell College (Emeritus)
+* **Area of Interest/Expertise:** Russian History, Grinnell Local History
 
 Daniel H. Kaiser is Professor of History Emeritus at Grinnell College. He is the author and editor of several books and numerous articles on Russian history but in retirement has hosted a blog on Grinnell local history (grinnellstories.blogspot.com). He is also the author of Grinnell Stories: African Americans of Early Grinnell (2020) and Grinnell Stories: Lives to Remember (2024). He resides in Grinnell with his wife, Jill.
 
 ### Dr. C. Negus S. Rudison-Imhotep
-**Affiliation:** Imhotep Memory Consultancy, LLC
-
-**Area of Interest/Expertise:** Sociologist | Cultural Memory Specialist
+* **Affiliation:** Imhotep Memory Consultancy, LLC
+* **Area of Interest/Expertise:** Sociologist | Cultural Memory Specialist
 
 Dr. C. Negus S. Rudison-Imhotep serves as CEO of Imhotep Memory Consultancy, LLC, where he leads efforts to revitalize and preserve cultural memory across global African communities. As a renowned cultural memory specialist, his work centers on lecture series, cultural equity assessments, recruitment, global marketing strategies, and the development of international community networks. Driven by a commitment to ancestral consciousness, historical reclamation, and Pan-African empowerment, Dr. Rudison-Imhotep leverages education, strategic alliances, and grassroots engagement to advance cultural restoration. Your visionary approach to uniting dignitaries, philanthropists, creatives, and entrepreneurial leaders resonates deeply with our mission of collective upliftment and transgenerational legacy building.
 
 ### Ricki King
+* **Affiliation:** Roots to Branches Genealogy
+* **Area of Interest/Expertise:**  Genealogy, Iowa History
 
 Ricki King, historian and founder of Roots to Branches Genealogy. King has a bachelor's degree in history from Drake University. She has been published twice in the National Genealogical Society Quarterly Journal. Additionally, King has been a presenter for the Iowa History 101 Series, "Iowa's Black Migration: Into, Around, Out of, and Back Again." Ricki worked to help Woodland Cemetery in Des Moines be recognized by the National Park Service's National Underground Railroad Network to Freedom. King is leading an effort to bring the legacy of Iowa's Black history and places to light. She is a Board Trustee of the State Historical Society of Iowa and the Chair of the Iowa Historical Foundation.
 
 ### Ashley Howard
-**Affiliation:** University of Iowa
+* **Affiliation:** University of Iowa
+* **Area of Interest/Expertise:** African American Studies/Midwestern History
 
-**Area of Interest/Expertise:** African American Studies/Midwestern History
-
-Ashley Howard is assistant professor of history and African American Studies at the University of Iowa.  Her research investigates racial violence in the Midwest and her work has appeared in the Middle West Review, Journal of African American History, Labor Studies Journal, the American Historian, Smithsonian Magazine, the Washington Post, the Financial Times and numerous other popular and scholarly outlets.   In 2023, she and co-investigator Colin Gordon were awarded a Mellon Foundation grant to examine race-based property restrictions in Iowa. She serves on the board of multiple organizations including the Annals of Iowa, the Urban History Association and Black Midwest Initiative. She is the author of Midwest Unrest: 1960s Urban Rebellions and the Black Freedom Movement.
+Ashley Howard is assistant professor of history and African American Studies at the University of Iowa.  Her research investigates racial violence in the Midwest and her work has appeared in the Middle West Review, Journal of African American History, Labor Studies Journal, the American Historian, Smithsonian Magazine, the Washington Post, the Financial Times and numerous other popular and scholarly outlets.In 2023, she and co-investigator Colin Gordon were awarded a Mellon Foundation grant to examine race-based property restrictions in Iowa. She serves on the board of multiple organizations including the Annals of Iowa, the Urban History Association and Black Midwest Initiative. She is the author of Midwest Unrest: 1960s Urban Rebellions and the Black Freedom Movement.
 
 ### Dr. David Brodnax
+* **Affiliation:** Trinity Christian College
+* **Area of Interest/Expertise:** African American social and legal history (19th and early 20th-century Midwest)
 
 Dr. David Brodnax is Professor of History and History Department Chair at Trinity Christian College in Palos Heights, Illinois. His research focuses on African American social and legal history in the 19th and early 20th-century Midwest. His recent scholarly activity includes: the chapter “’Black Self-Defense in 19th-Century Iowa” for The Oxford Handbook of Midwestern History; the article “The Present and Future of Black Midwestern Historical Scholarship” for Middle West Review; and serving on the advisory boards for several public history projects. He teaches courses on American, African, and Latin American history, as well as a course at the University of Iowa College of Law, where he holds adjunct faculty status. In 2021 he was named Trinity's Professor of the Year. He earned his J.D. from Iowa College of Law and his M.A. and Ph.D. from Northwestern University.
 
 ### Diana Henry
-**Affiliation:** Johnson County Interfaith Coalition, on the social justice team at the Unitarian Universalist Society in Coralville, League of Women Voters Johnson County, South of 6 District Arts & Entertainment committee, Alpha Kappa Alpha Sorority, Inc.
-
-**Area of Interest/Expertise:** public education, social/ racial justice issues, advocate for the arts
+* **Affiliation:** Johnson County Interfaith Coalition, on the social justice team at the Unitarian Universalist Society in Coralville, League of Women Voters Johnson County, South of 6 District Arts & Entertainment committee, Alpha Kappa Alpha Sorority, Inc.
+* **Area of Interest/Expertise:** public education, social/ racial justice issues, advocate for the arts
 
 Diana Henry taught for over 30 years before her retirement. Her undergraduate degree is from the University of Cincinnati, a master's of education from Lincoln University, and a master’s of arts from the University of Iowa. After retirement, she took a slightly different path. She got a Certificate in Museum Studies from the University of Iowa and worked as an education assistant at the African American Museum of Iowa for almost six years. She retired from the museum in August 2020. Some of her accomplishments include:
 - Ruby Ayres-Barbara Heidger Educator Award for International Understanding,1997
@@ -62,25 +64,26 @@ Diana Henry taught for over 30 years before her retirement. Her undergraduate de
 - Received a Governor’s Award in 2023 for her volunteer work.
 
 ### Abena Sankofa Imhotep
+* **Affiliation:** Sankofa Literary & Empowerment Group, Black & Privileged in America Podcast, The Imhotep Report
+* **Area of Interest/Expertise:** Community empowerment, literacy, education, writing
 
 Abena Sankofa Imhotep is an author, educator, and cultural leader devoted to advancing community empowerment, literacy, and equity. She founded Sankofa Literary & Empowerment Group, celebrating African diasporic thought and nurturing emerging readers and writers. Abena is the award-winning host of Black & Privileged in America Podcast and author of Omari's Big Tree and the Mighty Djembe. She also leads The Imhotep Report, a platform for cultural, political, and social analysis. Her work insists on the boundless possibilities of Black futures grounded in literature, scholarship, and our common humanity.
 
 ### John T. Pregler
-**Affiliation:** Independent Researcher/Historian/Author; member Sons of Union Veterans of the Civil War; member Society for American Baseball Research 
-
-**Area of Interest/Expertise:** Nineteenth-century Iowa history; American Civil War history; Nineteenth-century baseball history; Upper Mississippi Valley Native American history; Iowa political history.
+* **Affiliation:** Independent Researcher/Historian/Author; member Sons of Union Veterans of the Civil War; member Society for American Baseball Research 
+* **Area of Interest/Expertise:** Nineteenth-century Iowa history; American Civil War history; Nineteenth-century baseball history; Upper Mississippi Valley Native American history; Iowa political history.
 
 A life-long Iowan, Pregler resides in Dubuque where he researches, writes, and lectures on early Iowa history as it relates to our national narrative. Pregler’s work has produced a fourth documented instance in which Abraham Lincoln visited Iowa; proved a populate image of Frederick Douglass was taken in Dubuque in April 1866; documented the playing of integrated baseball in Dubuque in the 1890s; and established the fact the American League was in part organized during meetings held in Dubuque, Charles Comiskey’s adopted hometown. Pregler’s work also includes identifying and marking the unknown and unmarked graves of those he researches including an African American Civil War veteran, Dr. Henry Rose, and an early negro leagues baseball ball player, George “Jess” “Cannonball” Jackson, both buried in Dubuque, Iowa.
 
 ### Dwana Bradley
 
-**Affiliation:** Executive Director of the Des Moines Urban Experience, General Chairperson for Iowa Juneteenth, Owner of Iowa Urban Media
-
-**Area of Interest/Expertise:** Education, Public Speaking, Communication
+* **Affiliation:** Executive Director of the Des Moines Urban Experience, General Chairperson for Iowa Juneteenth, Owner of Iowa Urban Media
+* **Area of Interest/Expertise:** Education, Public Speaking, Communication
 
 Dwana Bradley is a mother of two and a Des Moines native. She obtained her Master's degree for elementary education and literacy from Drake University. Dwana’s work supports the Des Moines community and focuses on education. She worked for Des Moines Public Schools from 2009 - 2016 when she switched her focus on profit and non-profit organizations that continued to support the Des Moines community. She is currently the Executive Director of the Des Moines Urban Experience, a magazine that focuses on education, health, fashion, arts, and culture in the Des Moines area. She is also the General Chairperson for Iowa Juneteenth for the Des Moines area and the owner of Iowa Urban Media, a magazine that empowers, educates, and elevates readers in the Des Moines area.
 
 ## Partners
+
 ### African American Museum of Iowa
 The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibit, and teach the African American heritage of Iowa. The AAMI is committed to preserving African American history to ensure that future generations can learn from and connect with their heritage. We are contributors to the grant due to the nature of our institution.
 
@@ -103,9 +106,9 @@ Iowa State University Library supports a public land-grant university of over 30
 ### Nodaway Valley Historical Museum
 To learn the about Nodaway Valley Historical Museum please visit their [website](https://nodawayvalleymuseum.com/)
 
-### State Historical Soceity of Iowa
+### State Historical Society of Iowa
 The State Historical Society of Iowa is the official repository for the state of Iowa and strives to represent the stories of all Iowans. With a dual mission of preservation and education, the society maintains a museum, research center and seven historic sites. The society preserves and provides access to Iowa’s historical resources through a variety of statewide programs, exhibitions and projects. Contributions to the grant focused on providing access to the Iowa Bystander newspaper, highlighting material from the Robert Patten Collection and summary information about religious leaders and organizations that are mentioned in the Patten Collection material.
 
 
 ## Staff & Partner Staff Acknowledgements
-The success of the Amplify Black Voices in Iowa CLIR funded grant respresents the culmination of years of dedicated research, collaboration and shared vision. This undertaking would not have been possible without the support and expertise of our network of partners and the commitment of our staff. We extended our acknoledgements and thanks to the individuals who contributed their time, resources, and knowledge to bring this initiative to life.
+The success of the **Amplify Black Voices in Iowa** CLIR funded grant respresents the culmination of years of dedicated research, collaboration and shared vision. This undertaking would not have been possible without the support and expertise of our network of partners and the commitment of our staff. We extended our acknoledgements and thanks to the individuals who contributed their time, resources, and knowledge to bring this initiative to life.
