@@ -11,10 +11,9 @@ accessibility: false
 
 {% include feature/jumbotron.html heading="Project Support and Contributors" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
-{% include feature/nav-menu.html sections="Contributors;Advisory Board;Partners;ISU Staff Acknowledgements" %}
+{% include feature/nav-menu.html sections="Contributors;Advisory Board;Partners;Staff & Partner Staff Acknowledgements" %}
 
-## Contributors
-This project would not have been possible without the generous time, effort, and contributions of multiple individuals and organizations...
+The Amplifying Black Voices in Iowa CLIR funded grant is has been made possible through the combined efforts of our advisory bard, parnter institutions, and our starf and parnter staff. They have generously contriubted their time, effort, expertise, and resources to make this project possible.
 
 ## Advisory Board
 ### Dwain Coleman
@@ -87,25 +86,26 @@ The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibi
 
 
 ### Des Moines Public Library
-
+To learn about the Des Moines Public Library, please visit their [website](https://www.dmpl.org/)
 
 ### Fort Des Moines Museum
-
+To learn about the Fort Des Moines Museum, please visit their [website](https://www.fortdesmoinesmuseum.com/)
 
 ### Grinnell College
-
+Grinnell College Libraries Special Collections & Archives collects, preserves, and makes available for research rare and unique materials. We have a good teaching collection of books that document the history of print culture from the birth of movable type in the 1470s to the present day. We also have a strong focus on materials that document the history of Grinnell College, the surrounding community, and its cultural and natural environment in Iowa, including its prairie setting.  Grinnell contributed an oral history of the first Black woman to graduate from the college, Edith Renfrow Smith, in 1937.
 
 ### Grout Museum District
-Located in Waterloo, Iowa in the heart of the Cedar Valley, the Grout Museum District (GMD) provides a better understanding of our world by collecting, preserving and interpreting history and illustrating scientific principles. The Grout Museum collects, preserves and interprets cultural and natural history of the region; the Rensselaer Russell House Museum and the Snowden House preserve and interpret elements of the Victorian age; the Bluedorn Science Imaginarium provides exhibitions and programming that inspire the study of the sciences. And the Sullivan Brothers Iowa Veterans Museum honors the service and sacrifice of Iowa veterans from the Civil War to present. 
-
-### Nodaway Valley Historical Museum
-
+Located in Waterloo, Iowa in the heart of the Cedar Valley, the Grout Museum District (GMD) provides a better understanding of our world by collecting, preserving and interpreting history and illustrating scientific principles. The Grout Museum collects, preserves and interprets cultural and natural history of the region; the Rensselaer Russell House Museum and the Snowden House preserve and interpret elements of the Victorian age; the Bluedorn Science Imaginarium provides exhibitions and programming that inspire the study of the sciences. And the Sullivan Brothers Iowa Veterans Museum honors the service and sacrifice of Iowa veterans from the Civil War to present.
 
 ### Iowa State University
 Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
 
-## Partner Staff
-Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, tincidunt ipsum. Sed gravida et magna id elementum. Donec mollis ipsum sit amet mauris tempor rutrum. Duis semper interdum erat. Proin aliquet porta tincidunt. Donec sit amet orci vel massa cursus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam mollis sapien enim, tempus aliquet neque imperdiet et. Sed fermentum tortor enim, vel mattis velit fringilla ut. Proin urna dolor, commodo a condimentum quis, elementum at risus. Morbi ac tempor ligula. Integer malesuada, lacus vitae mattis rutrum, purus mauris gravida est, sed sagittis ipsum ante auctor ipsum.
+### Nodaway Valley Historical Museum
+To learn the about Nodaway Valley Historical Museum please visit their [website](https://nodawayvalleymuseum.com/)
 
-## Staff Acknowledgements
-Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, tincidunt ipsum. Sed gravida et magna id elementum. Donec mollis ipsum sit amet mauris tempor rutrum. Duis semper interdum erat. Proin aliquet porta tincidunt. Donec sit amet orci vel massa cursus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam mollis sapien enim, tempus aliquet neque imperdiet et. Sed fermentum tortor enim, vel mattis velit fringilla ut. Proin urna dolor, commodo a condimentum quis, elementum at risus. Morbi ac tempor ligula. Integer malesuada, lacus vitae mattis rutrum, purus mauris gravida est, sed sagittis ipsum ante auctor ipsum.
+### State Historical Soceity of Iowa
+The State Historical Society of Iowa is the official repository for the state of Iowa and strives to represent the stories of all Iowans. With a dual mission of preservation and education, the society maintains a museum, research center and seven historic sites. The society preserves and provides access to Iowa’s historical resources through a variety of statewide programs, exhibitions and projects. Contributions to the grant focused on providing access to the Iowa Bystander newspaper, highlighting material from the Robert Patten Collection and summary information about religious leaders and organizations that are mentioned in the Patten Collection material.
+
+
+## Staff & Partner Staff Acknowledgements
+The success of the Amplify Black Voices in Iowa CLIR funded grant respresents the culmination of years of dedicated research, collaboration and shared vision. This undertaking would not have been possible without the support and expertise of our network of partners and the commitment of our staff. We extended our acknoledgements and thanks to the individuals who contributed their time, resources, and knowledge to bring this initiative to life.
