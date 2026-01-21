@@ -1,12 +1,12 @@
 color_class,color
-primary,#7C2529
-secondary,
+primary, #7C2529
+secondary, #AAAAAA
 success,
-info,#7A99AC 
-warning,
-danger,
-light,
-dark,
+info, #7A99AC 
+warning, 
+danger, 
+light, #dadada
+dark, 
 cardinal, #C8102E
 gold, #F1BE48
 green-dark, #524727
