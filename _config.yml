@@ -52,8 +52,8 @@ page_gen:
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: 
-organization-link: 
+organization-name: CLIR
+organization-link: https://www.clir.org/
 organization-logo-banner:
 organization-logo-nav: objects/clir_white_wordmark.png
 
