@@ -1,6 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/,
-Advanced Search,/search.html
+Search,/search.html
 Items,/resources.html,Visualizations
 Visualizations,
 Subjects,/subjects.html,Visualizations
