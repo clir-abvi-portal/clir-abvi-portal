@@ -93,7 +93,7 @@ The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibi
 
 
 ### Grinnell College
-
+Grinnell College Libraries Special Collections & Archives collects, preserves, and makes available for research rare and unique materials. We have a good teaching collection of books that document the history of print culture from the birth of movable type in the 1470s to the present day. We also have a strong focus on materials that document the history of Grinnell College, the surrounding community, and its cultural and natural environment in Iowa, including its prairie setting.  Grinnell contributed an oral history of the first Black woman to graduate from the college, Edith Renfrow Smith, in 1937.
 
 ### Grout Museum District
 Located in Waterloo, Iowa in the heart of the Cedar Valley, the Grout Museum District (GMD) provides a better understanding of our world by collecting, preserving and interpreting history and illustrating scientific principles. The Grout Museum collects, preserves and interprets cultural and natural history of the region; the Rensselaer Russell House Museum and the Snowden House preserve and interpret elements of the Victorian age; the Bluedorn Science Imaginarium provides exhibitions and programming that inspire the study of the sciences. And the Sullivan Brothers Iowa Veterans Museum honors the service and sacrifice of Iowa veterans from the Civil War to present. 

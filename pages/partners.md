@@ -49,9 +49,10 @@ Part of the collection also contains a subseries related to S. Joe Brown and Mrs
 ### Portal Collections
 
 ## Grinnell College
-
+Grinnell College contributed material from its archival collection The Black Experience at Grinnell College.  This is a collection of oral histories of Black Grinnell alumni collected by Stuart Yeager, class of 1982.  The focus of the interviews is broad, but the central theme is the experiences of Black students at Grinnell over the course of nearly 50 years.
 
 ### Portal Collections
+Additional material related to Edith Renfrow Smith and the Black experience at Grinnell can be found here:  https://grinnell.as.atlas-sys.com/
 
 ## Grout Museum District
 
