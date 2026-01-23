@@ -13,14 +13,6 @@ accessibility: true
 
 {% include feature/nav-menu.html sections="Navigation;Metadata;Transcriptions for audio" %}
 
-# Site Navigation
-
-{% if page.credits \== true %}  
-    \<div id="credits-contents-wrapper"\>  
-        {% include cb/credits.html %}  
-    \</div\>  
-    {% endif %}
-
 The site provides multiple avenues for exploring the digitized resources: 
 
 * A browse page for reviewing the resources  
