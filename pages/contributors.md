@@ -13,8 +13,7 @@ accessibility: false
 
 {% include feature/nav-menu.html sections="Contributors;Advisory Board;Partners;ISU Staff Acknowledgements" %}
 
-## Contributors
-This project would not have been possible without the generous time, effort, and contributions of multiple individuals and organizations...
+The **Amplifying Black Voices in Iowa** CLIR funded grant is has been made possible through the combined efforts of our advisory bard, partner institutions, and our staff and partner staff. They have generously contributed their time, effort, expertise, and resources to make this project possible.
 
 ## Advisory Board
 ### Dwain Coleman
@@ -87,10 +86,10 @@ The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibi
 
 
 ### Des Moines Public Library
-
+To learn about the Des Moines Public Library, please visit their [website](https://www.dmpl.org/)
 
 ### Fort Des Moines Museum
-
+To learn about the Fort Des Moines Museum, please visit their [website](https://www.fortdesmoinesmuseum.com/)
 
 ### Grinnell College
 Grinnell College Libraries Special Collections & Archives collects, preserves, and makes available for research rare and unique materials. We have a good teaching collection of books that document the history of print culture from the birth of movable type in the 1470s to the present day. We also have a strong focus on materials that document the history of Grinnell College, the surrounding community, and its cultural and natural environment in Iowa, including its prairie setting.  Grinnell contributed an oral history of the first Black woman to graduate from the college, Edith Renfrow Smith, in 1937.
@@ -99,7 +98,7 @@ Grinnell College Libraries Special Collections & Archives collects, preserves, a
 Located in Waterloo, Iowa in the heart of the Cedar Valley, the Grout Museum District (GMD) provides a better understanding of our world by collecting, preserving and interpreting history and illustrating scientific principles. The Grout Museum collects, preserves and interprets cultural and natural history of the region; the Rensselaer Russell House Museum and the Snowden House preserve and interpret elements of the Victorian age; the Bluedorn Science Imaginarium provides exhibitions and programming that inspire the study of the sciences. And the Sullivan Brothers Iowa Veterans Museum honors the service and sacrifice of Iowa veterans from the Civil War to present. 
 
 ### Nodaway Valley Historical Museum
-
+To learn the about Nodaway Valley Historical Museum please visit their [website](https://nodawayvalleymuseum.com/)
 
 ### Iowa State University
 Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
