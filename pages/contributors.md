@@ -13,9 +13,11 @@ accessibility: false
 
 {% include feature/nav-menu.html sections="Advisory Board;Partners;Partner Staff;Staff Acknowledgements" %}
 
+
 The **Amplifying Black Voices in Iowa** CLIR funded grant is has been made possible through the combined efforts of our advisory bard, partner institutions, and our staff and partner staff. They have generously contributed their time, effort, expertise, and resources to make this project possible.
 
 ## Advisory Board
+-- -
 ### Dwain Coleman
 **Affiliation:** University of Utah
 
@@ -81,6 +83,7 @@ A life-long Iowan, Pregler resides in Dubuque where he researches, writes, and l
 Dwana Bradley is a mother of two and a Des Moines native. She obtained her Master's degree for elementary education and literacy from Drake University. Dwana’s work supports the Des Moines community and focuses on education. She worked for Des Moines Public Schools from 2009 - 2016 when she switched her focus on profit and non-profit organizations that continued to support the Des Moines community. She is currently the Executive Director of the Des Moines Urban Experience, a magazine that focuses on education, health, fashion, arts, and culture in the Des Moines area. She is also the General Chairperson for Iowa Juneteenth for the Des Moines area and the owner of Iowa Urban Media, a magazine that empowers, educates, and elevates readers in the Des Moines area.
 
 ## Partners
+-- -
 ### African American Museum of Iowa
 The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibit, and teach the African American heritage of Iowa. The AAMI is committed to preserving African American history to ensure that future generations can learn from and connect with their heritage. We are contributors to the grant due to the nature of our institution.
 
@@ -104,7 +107,9 @@ To learn the about Nodaway Valley Historical Museum please visit their [website]
 Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
 
 ## Partner Staff
+-- -
 Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, tincidunt ipsum. Sed gravida et magna id elementum. Donec mollis ipsum sit amet mauris tempor rutrum. Duis semper interdum erat. Proin aliquet porta tincidunt. Donec sit amet orci vel massa cursus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam mollis sapien enim, tempus aliquet neque imperdiet et. Sed fermentum tortor enim, vel mattis velit fringilla ut. Proin urna dolor, commodo a condimentum quis, elementum at risus. Morbi ac tempor ligula. Integer malesuada, lacus vitae mattis rutrum, purus mauris gravida est, sed sagittis ipsum ante auctor ipsum.
 
 ## Staff Acknowledgements
+-- -
 Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, tincidunt ipsum. Sed gravida et magna id elementum. Donec mollis ipsum sit amet mauris tempor rutrum. Duis semper interdum erat. Proin aliquet porta tincidunt. Donec sit amet orci vel massa cursus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam mollis sapien enim, tempus aliquet neque imperdiet et. Sed fermentum tortor enim, vel mattis velit fringilla ut. Proin urna dolor, commodo a condimentum quis, elementum at risus. Morbi ac tempor ligula. Integer malesuada, lacus vitae mattis rutrum, purus mauris gravida est, sed sagittis ipsum ante auctor ipsum.
