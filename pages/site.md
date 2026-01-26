@@ -11,7 +11,7 @@ accessibility: true
 
 {% include feature/jumbotron.html heading="About the Site" text=false objectid="objects/Banner10.png" %} 
 
-{% include feature/nav-menu.html sections="Navigation;Metadata;Transcriptions for audio" %}
+{% include feature/nav-menu.html sections="Content;Metadata;Audiovisual Materials" %}
 
 The site provides multiple avenues for exploring the digitized resources: 
 
@@ -21,11 +21,11 @@ The site provides multiple avenues for exploring the digitized resources:
 * Data page containing brief descriptions (metadata) of each resource
 
 # Content
-
+-- -
 Iowa State University Library collects, preserves, and provides access to materials for teaching, learning, and research from a broad range of sources and time periods. Some of these materials may be offensive or contain negative stereotypes. Their presence should be viewed and considered within their historical context. They do not represent the views of Iowa State University or the University Library.
 
-Metadata
-
+# Metadata
+-- -
 Metadata is the information that describes the items in this portal—such as titles, creators, dates, subjects, places, and rights. It helps you search, browse, and understand materials from many institutions in one shared space.
 
 Metadata can help you
@@ -40,8 +40,8 @@ This project (ABVI) uses metadata created by contributing partners. Iowa State U
 
 When they apply (most do), all resources will contain both subject headings “Black People” and “African Americans”. This was on the recommendation of the grant’s Advisory Board. 
 
-## Audiovisual materials
-
+# Audiovisual materials
+-- -
 ### Transcriptions
 
 The transcription vendor (3Play Media) used by the project offers two major transcription styles: Clean Read and Full Verbatim. Clean Read is their most commonly used style and aims to provide transcripts “as close to the true audio as possible while adhering to standard writing mechanics and grammar.” A Clean Read transcript contains the entire conversation including digressions, sound effects, and the speaker’s exact words with standard spelling. It omits filler words and false starts that don’t add to the content. A Full Verbatim transcription is used less frequently and captures “each word exactly as spoken, with no editing for clarity.” It includes “false starts, stammers, interjections, and filler words like um and uh.”    
