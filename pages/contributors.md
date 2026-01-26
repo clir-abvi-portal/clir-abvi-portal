@@ -11,7 +11,7 @@ accessibility: false
 
 {% include feature/jumbotron.html heading="Project Support and Contributors" text=false objectid="objects/banner6.png" %} 
 
-{% include feature/nav-menu.html sections="Contributors;Advisory Board;Partners;ISU Staff Acknowledgements" %}
+{% include feature/nav-menu.html sections="Advisory Board;Partners;Partner Staff;Staff Acknowledgements" %}
 
 The **Amplifying Black Voices in Iowa** CLIR funded grant is has been made possible through the combined efforts of our advisory bard, partner institutions, and our staff and partner staff. They have generously contributed their time, effort, expertise, and resources to make this project possible.
 
