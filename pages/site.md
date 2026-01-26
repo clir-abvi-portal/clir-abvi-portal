@@ -9,7 +9,7 @@ accessibility: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="About the Site" text=false objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
+{% include feature/jumbotron.html heading="About the Site" text=false objectid="objects/Banner10.png" %} 
 
 {% include feature/nav-menu.html sections="Navigation;Metadata;Transcriptions for audio" %}
 
