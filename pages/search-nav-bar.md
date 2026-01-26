@@ -14,4 +14,4 @@ accessibility: true
 {% include feature/nav-menu.html sections="placeholder1;placeholder2" %}
 
 ## Place Holder for Search App
-The search app will be linked to the ABVI Collection. It will look similar to the [University of Idaho Digital Collections search page](https://digital.lib.uidaho.edu/search).
+The search app will be linked to the ABVI Collection. It will look similar to the [ISU Digital Collections The Bomb (Iowa State) School Yearbooks](https://digitalcollections.lib.iastate.edu/search?collection=thebomb).
