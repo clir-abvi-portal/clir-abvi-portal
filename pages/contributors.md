@@ -9,12 +9,14 @@ accessibility: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="Project Support and Contributors" text=false objectid="objects/banner6.png" %} 
+{% include feature/jumbotron.html heading="The Project Team" text=false objectid="objects/banner6.png" %} 
 
-{% include feature/nav-menu.html sections="Advisory Board;Partners;Partner Staff;Staff Acknowledgements" %}
+{% include feature/nav-menu.html sections="Advisory Board;Partners;Staff Acknowledgements;Project Support and Funding" %}
 
 
-The **Amplifying Black Voices in Iowa** CLIR funded grant is has been made possible through the combined efforts of our advisory bard, partner institutions, and our staff and partner staff. They have generously contributed their time, effort, expertise, and resources to make this project possible.
+<br>
+
+This collaborative project of seven partner organizations could not have been completed without the combined efforts of our advisory board, partner institutions, and staff members from all organizations involved. They have generously contributed their time, effort, expertise, and resources to make this project possible.
 
 ## Advisory Board
 -- -
@@ -113,3 +115,8 @@ Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, 
 ## Staff Acknowledgements
 -- -
 Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, tincidunt ipsum. Sed gravida et magna id elementum. Donec mollis ipsum sit amet mauris tempor rutrum. Duis semper interdum erat. Proin aliquet porta tincidunt. Donec sit amet orci vel massa cursus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam mollis sapien enim, tempus aliquet neque imperdiet et. Sed fermentum tortor enim, vel mattis velit fringilla ut. Proin urna dolor, commodo a condimentum quis, elementum at risus. Morbi ac tempor ligula. Integer malesuada, lacus vitae mattis rutrum, purus mauris gravida est, sed sagittis ipsum ante auctor ipsum.
+
+## Project Support and Funding
+
+This project was supported by a Digitizing Hidden Collections grant from the Council on Library and Information Resources (CLIR). The grant program is made possible by funding from the Mellon Foundation
+
