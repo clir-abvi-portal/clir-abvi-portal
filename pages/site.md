@@ -11,7 +11,7 @@ accessibility: true
 
 {% include feature/jumbotron.html heading="About the Site" text=false objectid="objects/Banner10.png" %} 
 
-{% include feature/nav-menu.html sections="Content;Metadata;Audiovisual Materials;Technical Credits" %}
+{% include feature/nav-menu.html sections="Content;Metadata;Audiovisual Materials;" %}
 
 The site provides multiple avenues for exploring the digitized resources: 
 
