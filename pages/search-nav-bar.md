@@ -9,9 +9,9 @@ accessibility: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading=false text=false objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/768px-Search_Icon.svg.png" %} 
+{% include feature/jumbotron.html heading=false text=false objectid="objects/banner6.png" %} 
 
 {% include feature/nav-menu.html sections="placeholder1;placeholder2" %}
 
-## This page will change (if used)
-Will look similar to the [University of Idaho Digital Collections search page](https://digital.lib.uidaho.edu/search)
+## Place Holder for Search App
+The search app will be linked to the ABVI Collection. It will look similar to the [University of Idaho Digital Collections search page](https://digital.lib.uidaho.edu/search).
