@@ -1,5 +1,5 @@
 ---
-title: Exhibit
+title: Brief Biographies
 layout: about
 permalink: /exhibit.html
 # include CollectionBuilder info at bottom
