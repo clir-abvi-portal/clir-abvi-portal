@@ -52,6 +52,11 @@ page_gen:
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
+organization-name-isu: "Iowa State University Library Digital Collections"
+organization-link-isu: https://www.lib.iastate.edu/
+organization-logo-banner-isu: https://isuu00001library102stg.z21.web.core.windows.net/assets/media/dclogo_edited.png
+organization-logo-nav-isu: https://isuu00001library102stg.z21.web.core.windows.net/assets/media/ISU_Library_Center_White.png
+
 organization-name: CLIR
 organization-link: https://www.clir.org/
 organization-logo-banner:
