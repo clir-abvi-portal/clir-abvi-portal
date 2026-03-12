@@ -39,33 +39,24 @@ Viola Gibson was an activist in Cedar Rapids, Iowa from 1940-1989 known for rein
 Part of the collection also contains a subseries related to S. Joe Brown and Mrs. (Sue) S. Joe Brown including a booklet of the History of Central Association of Colored Women written by Sue Brown in 1940.
 
 ## Des Moines Public Library
+ADD REQUESTED LINK
 
-
-### Portal Collections
 
 ## Fort Des Moines Museum
+ADD REQUESTED LINK
 
-
-### Portal Collections
 
 ## Grinnell College
 Grinnell College contributed material from its archival collection The Black Experience at Grinnell College.  This is a collection of oral histories of Black Grinnell alumni collected by Stuart Yeager, class of 1982.  The focus of the interviews is broad, but the central theme is the experiences of Black students at Grinnell over the course of nearly 50 years.
 
-### Portal Collections
-Additional material related to Edith Renfrow Smith and the Black experience at Grinnell can be found here:  https://grinnell.as.atlas-sys.com/
+Additional material related to Edith Renfrow Smith and the Black experience at Grinnell can be found through the Grinnell College Libraries' [ArchivesSpace Public Interface](https://grinnell.as.atlas-sys.com/){:target="_blank" rel="noopener"}.
 
 ## Grout Museum District
 
 The Grout Museum District contributed disparate materials covering aspects of African American life in Waterloo from the 1920s to the present.  Included are newspapers and documents, political materials, and objects.  Subjects covered range from domestic life to politics and protests, with special emphasis on the George Floyd Protests of 2020.
 
-### Portal Collections
-
-Search all Grout Museum District contributed materials.
-
 ## Nodaway Valley Historical Museum
-
-
-### Portal Collections
+To find out more about the Nodaway Valley Historical Museum's collections, [visit their website](https://nodawayvalleymuseum.com/){:target="_blank" rel="noopener"}.
 
 ## Iowa State University
 
