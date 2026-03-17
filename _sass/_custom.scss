@@ -3,6 +3,10 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+h1 {
+    font-family: 'Merriweather';
+}
+
 .download-btn-rounded {
     border-top-left-radius: .25rem !important;
     border-bottom-left-radius: .25rem !important;
@@ -12,3 +16,127 @@
     max-height: 500px;
     overflow-y: auto;
 }
+
+.people-page {
+  max-width: 72rem;
+  margin: 0 auto;
+}
+
+.people-intro {
+  max-width: 52rem;
+  margin-bottom: 3rem;
+}
+
+.people-kicker {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6c757d;
+}
+
+.people-title {
+  margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+.people-dek {
+  max-width: 44rem;
+  line-height: 1.8;
+  color: #495057;
+}
+
+.person-entry {
+  padding: 2.75rem 0;
+}
+
+.person-divider {
+  margin: 0;
+  border: 0;
+  border-top: 1px solid #d7dce1;
+  opacity: 1;
+}
+
+.person-figure {
+  margin: 0;
+}
+
+.person-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 0.35rem;
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.12);
+}
+
+.person-caption {
+  margin-top: 0.85rem;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: #5c6670;
+}
+
+.person-text {
+  max-width: 44rem;
+}
+
+.person-header {
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #e3e7eb;
+}
+
+.person-year {
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #0b0b0b;
+}
+
+.person-name {
+  margin-bottom: 0.4rem;
+  font-size: clamp(2rem, 3.2vw, 2.8rem);
+  line-height: 1.1;
+  font-weight: 700;
+  color: #212529;
+}
+
+.person-role {
+  margin-bottom: 1rem;
+  line-height: 1.9;
+  color: #212529;
+}
+
+.person-body p {
+  margin-bottom: 1rem;
+  line-height: 1.9;
+  color: #212529;
+}
+
+.person-body p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 767.98px) {
+  .people-intro {
+    margin-bottom: 2rem;
+  }
+
+  .person-entry {
+    padding: 2rem 0;
+  }
+
+  .person-header {
+    margin-bottom: 1rem;
+    padding-bottom: .65rem;
+  }
+
+  .person-highlight {
+    font-size: 1rem;
+  }
+
+  }
