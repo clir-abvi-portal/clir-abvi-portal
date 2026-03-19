@@ -9,39 +9,50 @@ accessibility: False
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="Vignettes of Des Moines: Religious Leaders' Biographies and Church Histories" text=false position=bottom objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
+{% include feature/jumbotron.html heading="Religious Leaders of Central Iowa, 1900-1930: Individual Vignettes" text=false position=bottom objectid="https://titanapi.minisisinc.com/api/links/492768c0ab2f4b059262034753227522/uuid/e1784fd5298647099ff78bdf2c2333cd/access" %} 
 
 {% include feature/nav-menu.html sections="Biographies;Church Histories" %}
 
-# **SITE CONTENT UNDER CONSTRUCTION**
-
-# Religious Leaders of Central Iowa, 1900-1930 Individual Vignettes 
+# Background
 
 Faith traditions and churches played a central role in the creation of communities in the United States. In the 1840s and early 1850s Black communities developed in eastern Iowa, especially in Muscatine and Keokuk. Early on African Methodist Episcopal (AME) congregations organized in those cities. By 1852 an African Methodist Episcopal congregation was meeting in Muscatine and Keokuk also had an AME congregation. The presence of Black religious groups in these communities is unsurprising as Lee County led the state with 245 Black residents and Muscatine County was second with 112 Black residents in 1860. 
 
 After the Civil War, Iowa’s Black population grew from 5,762 in 1870 to 9,516 in 1880. As coal mining began to play a major role in Iowa’s economy in the late 1800s the Black population  continued to increase. Iowa’s Black population reached a pre-World War II peak of 19,005 in 1920. It is in the period 1900 - 1930 where Black Baptist and Methodist religious congregations were in large and small communities across the southern half of the state including Taylor and Page Counties in southwest Iowa, Jasper, Polk and Boone Counties in the central part of the state, as well as the eastern counties of Scott, Muscatine, Des Moines, and Lee. Mahaska and Wapello Counties also had active Black churches. Congregations of various denominations also existed in Waterloo, Mason City, Cedar Rapids, and Sioux City.
 
-This period of review is also when the Iowa State Bystander newspaper became a vital source of information for the Black community in Iowa and neighboring states. Publisher John L. Thompson had correspondents in various cities and towns. THe newspaper provided important insights into the men and women who served religious functions in Iowa. It along with governmental records, city directories, and other primary sources provided biographical information to shed light on these overlooked figures in Iowa, regional, and national history.. 
+This period of review is also when the Iowa State Bystander newspaper became a vital source of information for the Black community in Iowa and neighboring states. Publisher John L. Thompson had correspondents in various cities and towns. THe newspaper provided important insights into the men and women who served religious functions in Iowa. It along with governmental records, city directories, and other primary sources provided biographical information to shed light on these overlooked figures in Iowa, regional, and national history.   
 
-## 1. Alexander, John A.
+# Individual Vignettes
+
+## Alexander, John A.
+
 (October 3, 1895 - April 28, 1970)
 
 Methodist minister in the Midwest and Pennsylvania; Civil rights leader
+
+{% include feature/image.html objectid="https://isuu00001library102stg.blob.core.windows.net/digital-objects/abvi/images/alexander-john.jpg" caption="Article detailing activities related to John Alexander and others. Source: *Kansas City Star, Month, Day, Year*" alt="article mentioning John Alexander 'Mrs. Wm Alexander of Liberty Mo., is the guest o her son, Rev J. Alexander...'"%}
 
 A native of Kansas City, Missouri, Rev. John A. Alexander served as a pastor in his home state in the 1920s. He came to Des Moines to be pastor at St. Paul AME Church in 1932. He was the officiant for the funeral service at that church for lawyer George Woodson in 1933. Rev. Alexander engaged in civic activities and preached at other churches including in Dallas Center in 1934. He gave a talk at First Evangelical Church in Des Moines in 1935. He left St. Paul AME in 1936 to be a pastor of Ebenezer AME Church in Evanston, Ill.
 
 Rev. Alexander then held positions in Indianapolis, Detroit, and Chicago, all three churches with the name Bethel AME. He was in Indiana from about 1941 to 1949, then Michigan, and back to Illinois from 1952 to 1958. He finished his career in Philadelphia at Mt. Pisgah AME. He left the pulpit in about 1964. Rev. Alexander died in Philadelphia on April 28, 1970. The location of his grave site is unknown. 
 
-## 2. Bates, Samuel 
+***
+
+## Bates, Samuel
+
 (March 2, 1849 - December 5, 1930)
 
 Baptist minister in southern and central Iowa
+
+{% include feature/image.html objectid="https://isuu00001library102stg.blob.core.windows.net/digital-objects/abvi/images/bates-samuel.jpg" alt="article on Samuel Bates which states..."%}
 
 Samuel Bates was born in Virginia before the Civil War in 1849 and lived there  until about 1870. He moved to the Midwest by 1880. He married his spouse Susan in 1897, she died in 1900. He remarried to Sephronia Brown by 1910.
 
 Rev. Bates served at multiple churches in the early 1900s including at Corinthian Baptist in Des Moines in 1901, at Galilee Baptist in Evans in Mahaska County in 1903, and Clarinda in southwest Iowa in 1906. He returned to central Iowa serving in Colfax in September 1906, then returning to Des Moines in 1907 to serve at Maple Street Baptist Church. He was a pastor there until his death in 1930. He is buried at Laurel Hill Cemetery in Des Moines.
 
-## 3. Bell, James H.	 
+- --
+
+## Bell, James H.	
+
 (May 1, 1847 - May 1, 1911)
 
 Baptist minister in Iowa and Illinois; Civil War veteran
@@ -56,7 +67,10 @@ His affiliation is sometimes generally referenced as the East Side Baptist Churc
 
 He returned to Champaign in 1903 where he lived until his passing. He reportedly was buried in Mount Hope Cemetery in Urbana.
 
-## 4. Brent, Albert (A.) Ross 
+- --
+
+## Brent, Albert (A.) Ross
+
 (June 9, 1899 - December 3, 1984)
 
 Baptist minister in the 1930s, a founder of the Progressive National Baptist Convention
@@ -67,8 +81,9 @@ He was listed as a Baptist minister in Sedalia, Missouri in the 1930 Federal pop
 
 He took a position at Shiloh Baptist Church in Plainfield, New Jersey in 1941. He registered for selective service in World War II in Plainfield in 1942 with that church listed as his employer. He occasionally conducted services at other churches in the region. Plainfield declared an A. Ross Brent Day in 1976. He died there on December 3, 1984. The Bridgewater (NJ) Courier-News reported his death on December 4, 1984. The obituary noted his role as a founder of the Progressive National Baptist Convention that conducted international outreach. He is buried in Hillside Cemetery in Scotch Plains, N.J.
 
+***
 
-## 5. Birt, Samuel L.
+## Birt, Samuel L.
 (October 20, 1872 - February 17(?), 1929)
 
 Methodist minister in Iowa and Illinois
@@ -79,8 +94,9 @@ Rev. Birt then took posts in Clinton in 1908 and Albia in 1909. In the 1910 Fede
 
 In 1915 he moved to Des Moines and became the minister at St. Paul AME Church. He was in Des Moines until 1920, and the moved to Chicago. He was the minister at Bethel AME Church where he served until his death in 1929. His place of burial is currently unlocated.
 
+***
 
-## 6. Bowles, James W., Rev.
+## Bowles, James W., Rev.
 (December 15, 1867 - November 3, 1919)
 
 Baptist minister and leader  in Iowa
@@ -89,7 +105,7 @@ Rev. James W. Bowles was a native of Virginia who came to Iowa as a coal miner i
 
 He married Genevieive Bell of Des Moines in 1910. Bowles was profiled in the Bystander of December 9, 1910. He served on the executive board of the Iowa Nebraska Baptist Association. He was a pastor in Colfax for much of 1911 then moved to Fort Madison. He finished his career at Antioch Baptist Church in Waterloo from late 1915 to his death in 1919. His funeral was held in Des Moines while his grave is in Elmwood Cemetery in Waterloo.
 
-## 7. Brumfield, Thomas Mason 
+## Brumfield, Thomas Mason 
 (December 14, 1883 - August 7, 1967)
 
 Pastor at Union Congregational Church in Des Moines
@@ -98,7 +114,7 @@ A native of Bowling Green Kentucky, and graduate of Oberlin College in Ohio, Rev
 
 He finished an M.A. from University of Chicago in 1928 while he taught at Fisk University. He published a study of Black churches in Nashville. He died there in 1967 and was buried in Greenwood Cemetery in Nashville.
 
-## 8. Daniels, Isaac N.
+## Daniels, Isaac N.
 (January 21, 1853 - August 28, 1929 )
 
 Methodist minister in Iowa and Midwest; Methodist elder
