@@ -90,7 +90,7 @@ Dwana Bradley is a mother of two and a Des Moines native. She obtained her Maste
 The mission of the African American Museum of Iowa (AAMI) is to preserve, exhibit, and teach the African American heritage of Iowa. The AAMI is committed to preserving African American history to ensure that future generations can learn from and connect with their heritage. We are contributors to the grant due to the nature of our institution.
 
 ### Des Moines Public Library
-To learn about the Des Moines Public Library, please visit their [website](https://www.dmpl.org/)
+Founded in 1866, the Des Moines Public Library is the public library system for the City of Des Moines. With six branches and a collection of more than 500,000 items, the Des Moines Public Library is the largest public library system in the state of Iowa. The mission of the Des Moines Public Library is to strength our community by connecting people with ideas and the tools they need to enrich their lives. With a total circulation of over 1.3 million items, the library provides public access to books, DVDs, Cds, audiobooks, magazines, board games, and our Library of Things. Des Moines Public Library also offers access to public computers, study rooms, historical research materials, and many other needed services. The Des Moines Public Library contributed materials from two major collections, the Iowa Oral History Project and the Iowa Bystander.
 
 ### Fort Des Moines Museum
 To learn about the Fort Des Moines Museum, please visit their [website](https://www.fortdesmoinesmuseum.com/)
@@ -107,6 +107,70 @@ To learn the about Nodaway Valley Historical Museum please visit their [website]
 ### Iowa State University
 Iowa State University Library supports a public land-grant university of over 30,000 students. Library collections serve the academic and research needs of the university, reflected in its seven colleges (not including the Graduate College): Agriculture and Life Sciences, Business, Design, Engineering, Health and Human Sciences, Liberal Arts and Sciences, and Veterinary Medicine. Iowa State University served as the lead institution on the grant, and hosts the portal. Library staff oversaw the administration of the grant, created metadata guidelines for grant partners, provided digitization and conservation work and advice, created the portal, and contributed content.
 
+### State Historical Society of Iowa
+The State Historical Society of Iowa is the official repository for the state of Iowa and strives to represent the stories of all Iowans. With a dual mission of preservation and education, the society maintains a museum, research center and seven historic sites. The society preserves and provides access to Iowa’s historical resources through a variety of statewide programs, exhibitions and projects. Contributions to the grant focused on providing access to the Iowa Bystander newspaper, highlighting material from the Robert Patten Collection and summary information about religious leaders and organizations that are mentioned in the Patten Collection material.
+
 ## Staff Acknowledgements
 -- -
-Suspendisse non lacinia ipsum. Proin suscipit nibh lobortis, sagittis diam vel, tincidunt ipsum. Sed gravida et magna id elementum. Donec mollis ipsum sit amet mauris tempor rutrum. Duis semper interdum erat. Proin aliquet porta tincidunt. Donec sit amet orci vel massa cursus mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam mollis sapien enim, tempus aliquet neque imperdiet et. Sed fermentum tortor enim, vel mattis velit fringilla ut. Proin urna dolor, commodo a condimentum quis, elementum at risus. Morbi ac tempor ligula. Integer malesuada, lacus vitae mattis rutrum, purus mauris gravida est, sed sagittis ipsum ante auctor ipsum.
+
+### African American Museum of Iowa
+
+Felicite Wolfe, Curator & Collections Manager and grant co-Principal Investigator   
+Katharine Cummings, Digitization Intern
+
+### Des Moines Public Library
+
+Catherine A. Beane, Librarian
+
+### Fort Des Moines Museum and Education Center
+Gialan Williams
+Jeff Kluever
+Matthew Harvey
+
+### Grinnell College
+
+Christopher Jones, Special Collections Librarian and Archivist of the College 
+
+### Grout Museum District
+
+Nicholas Erickson, Registrar  
+Catreva Manning, Archivist
+
+### Iowa State University
+
+A special thanks to the dedicated support from June Somsanith, our CLIR Grant Assistant. 
+
+Amber Bertin, AV Preservation Librarian  
+Amy Bishop, grant co-Principal Investigator  
+Hannah Scates Kettler, Associate University Librarian for Academic ServicesHeather Campbell, Head of Metadata Services  
+Hema Thulsidhos, Metadata Projects Librarian  
+June Somsanith, CLIR Grant Assistant  
+Laura Sullivan, grant co-Principal Investigator and Digital Collections Librarian  
+Lisa Muccigrosso, Interim Head of Preservation  
+Melea Reicks Licht, Communications Manager  
+Melinda Moeller, Preservation Senior Conservation Assistant  
+Mindy McCoy, Digitization Specialist  
+Olivia Wikle, Head of Digital Scholarship and Initiatives
+
+Aman Singh, Digital Collections student assistant  
+Mahesh Babu Tasil, Digital Collections student assistant  
+Jia Wu, Digital Collections student assistant  
+Logan Bettis, Digital Collections student assistant
+
+Thanks to the following former staff members who helped during the early stages of the grant:  
+Daniel Hartwig  
+Kathy Parsons  
+Nacuya Rucker  
+Rosie Rowe  
+Sonya Barron  
+Tammy Troup
+
+### Nodaway Valley Historical Museum
+
+Trisha Bergren
+
+### State Historical Society of Iowa
+
+Kay Coats, Collections Coordinator  
+Anthony Jahn, State Archivist, Library & Archives Bureau Chief  
+Leo Landis, State Curator for State Historical Society of Iowa (2013-2024), Wisconsin Historical Society starting in 2025
