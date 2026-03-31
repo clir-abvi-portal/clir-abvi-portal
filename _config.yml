@@ -23,9 +23,9 @@ title: Amplifying Black Voices of Iowa
 tagline: A collection of digitized resources from organizations throughout Iowa
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This site contains thousands of digitized resources created by Black Iowans from the 19th through 21st centuries. Explore this site to find local newspapers, correspondence, oral histories, artifacts, photographs, programs, and other resources. Topics covered include everyday life, major events, World War I, social movements, religious life, Buxton, and various organizations. The items were contributed by seven Iowa organizations collaborating on a CLIR (Council on Library and Information Resources) supported grant project."
+description: "This site contains thousands of digitized resources created by Black Iowans from the 19th through 21st centuries. Explore this site to find local newspapers, correspondence, oral histories, artifacts, photographs, programs, and other resources. Topics covered include everyday life, major events, World War I, social movements, religious life, Buxton, and various organizations. The items were contributed by seven Iowa organizations collaborating on a CLIR (Council on Library and Information Resources) supported grant project. The Iowa State University Library hosts this digital collection."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: iowa; black americans; african americans; social movements; history; midwest; The Bystander newspaper
+keywords: iowa; iowans; black americans; african americans; social movements; history; midwest; The Bystander newspaper; Buxton
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Iowa State University
 
@@ -34,12 +34,12 @@ author: Iowa State University
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: final_data_multi_coords
+metadata: demo-metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 page_gen:
-  - data: 'final_data_multi_coords'
-  - data: 'final_data_multi_coords'
+  - data: 'demo-metadata'
+  - data: 'demo-metadata'
     template: 'manifest'
     template_override: true
     name: 'objectid'
