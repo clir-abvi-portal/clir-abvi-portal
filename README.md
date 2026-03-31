@@ -1,3 +1,7 @@
+
+# Changelog
+config-theme-colors.csv info changed to ISU secondary gray palette #707372
+
 # CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
