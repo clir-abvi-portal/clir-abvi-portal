@@ -2,6 +2,8 @@
 # Changelog
 config-theme-colors.csv info changed to ISU secondary gray palette #707372
 
+Text color contrast increased on navbar and footer through adding to _custom.scss. See sections starting with comment "/* Improve navbar text contrast on fixed background colors */" and "/* Improve footer text contrast on fixed background colors */"
+
 # CollectionBuilder-CSV
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
