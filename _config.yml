@@ -39,12 +39,17 @@ metadata: final_data_multi_coords
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 page_gen:
   - data: 'final_data_multi_coords'
-  - data: 'final_data_multi_coords'
     template: 'manifest'
     template_override: true
     name: 'objectid'
     dir: 'manifests'
     extension: 'json' 
+    filter: 'objectid'
+  - data: 'biographies'
+    template: 'biographies'
+    name: 'objectid'
+    dir: 'biographies'
+    extension: 'html'
     filter: 'objectid'
 
 ##########
