@@ -1,41 +1,67 @@
 ---
-# base layout for other item display_template layouts
-# adds breadcrumbs and title at top; citation box, rights box, and browse buttons at bottom
+title: Biographies
 layout: default
 # item-meta adds rich meta markup to the page on production build
 item-meta: true
 ---
+
 <div class="container py-3">
 
-    {% include item/bio-breadcrumbs.html %}
-    <h2 class="mb-3">{{ page.person_name }} 
-        <!--<a href="#terms" class="ms-5 btn btn-sm btn-outline-dark small">Related Terms 
-            <svg class="bi icon-sprite" role="img" aria-label="Jump to Related Terms">
-                <use xlink:href="{{ '/assets/lib/cb-icons.svg' | relative_url }}#arrow-down"/>
-            </svg>
-        </a>-->
-    </h2>
+    <!-- Breadcrumbs -->
+    <nav aria-label="breadcrumb">
+        {% include item/bio-breadcrumbs.html %}
+    </nav>
+</div>
 
-    <div class="row justify-content-center pt-3 pb-4 gx-5">
-        <div class="col-sm-6">
+<div class="container py-3 biography-item-page">
 
-            <h3>Description</h3>
-            <p>{{ page.description }}</p>
-            <p><a class="btn btn-outline-secondary-grey-dark btn-lg" href="{{ '/browse.html#' | append: page.title | relative_url }}">Browse All Biographies</a></p>
+    <!-- Biography Header -->
+    <div class="mb-3">
+        {% if page.person_name %}
+        <h1 class="bio-item-name">{{ page.person_name }}</h1>
+        {% endif %}
 
-        </div>
+        {% if page.person_year %}
+        <p class="text-muted">{{ page.person_year }}</p>
+        {% endif %}
 
-        <div class="col-sm-6" id="terms">
-
-           <h3>Featured Terms</h3>
-           <ul>
-
-            </ul>
-
-       </div>
+        {% if page.person_role %}
+        <p class="bio-item-role fw-bold">{{ page.person_role }}</p>
+        {% endif %}
     </div>
 
-    <div class="text-center">
-        <a class="btn btn-secondary" href="{{ '/biographies/' | relative_url }}" role="button">&laquo; Biographies</a>
+    <!-- Biography Content -->
+    <div class="row g-4">
+        <div class="col-md-4">
+            <figure class="text-center">
+                {% if page.image_filename %}
+                <img
+                    src="{{ page.image_filename | prepend: 'https://isuu00001library102stg.blob.core.windows.net/digital-objects/abvi/images/' }}"
+                    alt="{{ page.alt | default: page.person_name }}"
+                    class="img-fluid rounded shadow-sm"
+                >
+                {% else %}
+                <div class="bg-light d-flex align-items-center justify-content-center rounded py-5">
+                    <span class="text-muted">No Image Available</span>
+                </div>
+                {% endif %}
+                {% if page.caption %}
+                <figcaption class="mt-2 small text-muted">
+                    {{ page.caption }}
+                </figcaption>
+                {% endif %}
+            </figure>
+        </div>
+
+        <div class="col-md-8">
+            {% if page.description %}
+                {{ page.description }}
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Navigation to full biographies list -->
+    <div class="mt-4">
+        {% include item/browse-buttons-bios.html %}
     </div>
 </div>
