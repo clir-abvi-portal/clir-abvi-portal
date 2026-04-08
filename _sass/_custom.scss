@@ -70,6 +70,66 @@ footer.bg-dark {
    BIOGRAPHIES PAGE TYPOGRAPHY ENHANCEMENTS
    ======================================== */
 
+/* Impactful main page h1 styling */
+.biographies-content h1:first-child {
+    font-family: 'Merriweather', serif;
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
+    margin: 4rem 0 1rem 0;
+    position: relative;
+    
+    &::before {
+        content: '';
+        position: absolute;
+        top: -1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 120px;
+        height: 4px;
+        background: linear-gradient(90deg, #003D4C 0%, #005570 50%, #003D4C 100%);
+        border-radius: 2px;
+    }
+    
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: -1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80px;
+        height: 2px;
+        background: #003D4C;
+        border-radius: 1px;
+    }
+}
+
+/* Date subtitle styling */
+.biographies-content h2:first-of-type {
+    font-family: 'Georgia', serif;
+    font-size: 1.75rem;
+    font-weight: 400;
+    color: #6c757d;
+    text-align: center;
+    margin: 0 0 3rem 0;
+    font-style: italic;
+}
+
+@media (max-width: 768px) {
+    .biographies-content h1:first-child {
+        font-size: 2.2rem;
+        
+        &::before {
+            width: 80px;
+        }
+        
+        &::after {
+            width: 60px;
+        }
+    }
+}
+
 /* Biographies page content width constraint only */
 .biographies-content {
     max-width: 1000px;
@@ -89,33 +149,39 @@ footer.bg-dark {
     }
 }
 
-/* Elegant section headers with stylized letters */
+/* Circular badge style section headers */
 .bio-section-header {
-    position: relative;
-    font-family: 'Merriweather', serif;
-    font-size: 3.5rem;
-    font-weight: 700;
-    color: #2c3e50;
-    margin: 3rem 0 2rem 0;
-    text-align: left;
-    overflow: hidden;
+    display: flex;
+    align-items: center;
+    margin: 4rem 0 3rem 0;
     
-    &::first-letter {
-        font-size: 4.5rem;
-        color: #8b7355;
-        text-shadow: 2px 2px 4px rgba(139, 115, 85, 0.3);
-        margin-right: 0.1em;
+    /* Reduce space above first letter section */
+    &:first-of-type {
+        margin-top: 2rem;
     }
     
-    &::after {
-        content: '';
-        position: absolute;
-        bottom: -10px;
-        left: 0;
-        width: 60px;
-        height: 3px;
-        background: linear-gradient(to right, #8b7355, transparent);
-        border-radius: 2px;
+    .letter-badge {
+        width: 70px;
+        height: 70px;
+        background: linear-gradient(135deg, #003D4C 0%, #005570 100%);
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Merriweather', serif;
+        font-size: 2.5rem;
+        font-weight: 700;
+        box-shadow: 0 4px 15px rgba(0, 61, 76, 0.3);
+        margin-right: 2rem;
+        flex-shrink: 0;
+    }
+    
+    .section-line {
+        flex: 1;
+        height: 2px;
+        background: linear-gradient(to right, #003D4C, transparent);
+        border-radius: 1px;
     }
 }
 
@@ -125,66 +191,51 @@ footer.bg-dark {
     margin-top: 1.5rem;
 }
 
-/* Enhanced biography entries */
+/* True card design for biography entries */
 .bio-entry {
-    margin-bottom: 2.5rem;
-    padding: 1.5rem;
-    border-left: 4px solid #f8f9fa;
+    background: white;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid #f0f0f0;
     transition: all 0.3s ease;
     
     &:hover {
-        border-left-color: #8b7355;
-        background-color: #fefefe;
-        transform: translateX(5px);
-        box-shadow: 0 4px 12px rgba(139, 115, 85, 0.1);
+        transform: translateY(-3px);
+        box-shadow: 0 8px 25px rgba(0, 61, 76, 0.15);
+        border-color: #003D4C;
     }
 }
 
-/* Elegant name styling */
+/* Clean name styling for cards */
 .bio-name {
     font-family: 'Merriweather', serif;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: 700;
     color: #2c3e50;
     text-decoration: none !important;
-    display: inline-block;
-    margin-bottom: 0.5rem;
-    position: relative;
+    display: block;
+    margin-bottom: 0.75rem;
     
     &:hover {
-        color: #8b7355;
-        
-        &::after {
-            width: 100%;
-        }
-    }
-    
-    &::after {
-        content: '';
-        position: absolute;
-        bottom: -2px;
-        left: 0;
-        width: 0;
-        height: 2px;
-        background: #8b7355;
-        transition: width 0.3s ease;
+        color: #003D4C;
+        text-decoration: none !important;
     }
 }
 
-/* Role badges */
+/* Role styling for cards */
 .bio-role {
     font-family: 'Georgia', serif;
-    font-style: italic;
     color: #6c757d;
-    font-size: 1rem;
+    font-size: 0.95rem;
     line-height: 1.4;
-    margin-top: 0.25rem;
     
     &::before {
-        content: '◦ ';
-        color: #8b7355;
+        content: '▪ ';
+        color: #003D4C;
         font-weight: bold;
-        margin-right: 0.25rem;
+        margin-right: 0.5rem;
     }
 }
 
@@ -201,7 +252,7 @@ footer.bg-dark {
         left: 20%;
         right: 20%;
         height: 2px;
-        background: linear-gradient(to right, transparent, #e0d5c7, #8b7355, #e0d5c7, transparent);
+        background: linear-gradient(to right, transparent, #e0eef2, #003D4C, #e0eef2, transparent);
         border-radius: 1px;
     }
 }
@@ -238,10 +289,10 @@ footer.bg-dark {
         box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         
         &:hover {
-            background: #8b7355;
+            background: #003D4C;
             color: white;
             transform: translateY(-2px);
-            box-shadow: 0 4px 8px rgba(139, 115, 85, 0.3);
+            box-shadow: 0 4px 8px rgba(0, 61, 76, 0.3);
             text-decoration: none;
         }
     }
@@ -253,8 +304,8 @@ footer.bg-dark {
     padding: 3rem;
     border-radius: 12px;
     margin: 3rem 0;
-    border-left: 6px solid #8b7355;
-    box-shadow: 0 4px 20px rgba(139, 115, 85, 0.1);
+    border-left: 6px solid #003D4C;
+    box-shadow: 0 4px 20px rgba(0, 61, 76, 0.1);
     
     h3 {
         font-family: 'Merriweather', serif;
@@ -266,7 +317,7 @@ footer.bg-dark {
             display: block;
             width: 40px;
             height: 2px;
-            background: #8b7355;
+            background: #003D4C;
             margin: 0.5rem 0;
         }
     }
@@ -277,4 +328,39 @@ footer.bg-dark {
         color: #495057;
         text-align: justify;
     }
+}
+
+/* ========================================
+   INDIVIDUAL BIOGRAPHY PAGE STYLING
+   ======================================== */
+
+/* Biography item page content constraint */
+.biography-item-page {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+@media (max-width: 900px) {
+    .biography-item-page {
+        padding: 0 1.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .biography-item-page {
+        padding: 0 1rem;
+    }
+}
+
+/* Simple name styling to match main page */
+.bio-item-name {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+/* Role styling to match main page */
+.bio-item-role {
+    color: #2c3e50;
 }
