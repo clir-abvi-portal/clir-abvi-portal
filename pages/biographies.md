@@ -5,10 +5,11 @@ permalink: /biographies/
 ---
 <div class="biographies-content" markdown="1">
 
-# Black Religious Leaders of Iowa, 1900-1930
+# Black Religious Leaders of Iowa
+## 1900-1930
 
 {:.pt-4}
-## Biographies
+### Biographies
 
 Featured here are brief biographies, or vignettes, of religious leaders of Iowa. Resources found within this site and beyond were utilized in their creation. The vignettes include each person’s name, birth and death dates, roles, and biography.
 
@@ -36,7 +37,10 @@ This period of review is also when the Iowa State Bystander newspaper became a v
 <div>
 
 {% for letter in uniqueLetters %}
-<h2 class="bio-section-header" id="{{ letter }}">{{ letter }}</h2>
+<div class="bio-section-header" id="{{ letter }}">
+    <div class="letter-badge">{{ letter }}</div>
+    <div class="section-line"></div>
+</div>
 
 <div class="bio-entries">
 {% for item in glossary %}
@@ -51,10 +55,6 @@ This period of review is also when the Iowa State Bystander newspaper became a v
 {%- endif -%}
 {%- endfor -%}
 </div>
-
-{% unless forloop.last %}
-<div class="bio-divider"></div>
-{% endunless %}
 
 {%- endfor -%}
 
