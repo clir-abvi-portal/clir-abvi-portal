@@ -9,9 +9,8 @@ permalink: /biographies/
 ## 1900-1930
 
 {:.pt-4}
-### Biographies
 
-Featured here are brief biographies, or vignettes, of religious leaders of Iowa. Resources found within this site and beyond were utilized in their creation. The vignettes include each person’s name, birth and death dates, roles, and biography.
+Featured here are brief biographies, or vignettes, of religious leaders of Iowa. The Bystander newspaper from this site was used to create many of the vignettes. The vignettes include each person’s name, birth and death dates, roles, and biography. To learn more about each person, select their name in the listing below.
 
 {% capture letters %}{% for item in site.data.biographies %}{{ item.person_name | slice: 0 | capitalize }};{% endfor %}{% endcapture %}
 {%- assign uniqueLetters = letters | split: ';' | uniq | sort -%}
