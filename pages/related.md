@@ -1,7 +1,7 @@
 ---
-title: Partner Instituions
+title: Related Materials
 layout: about
-permalink: /partners.html
+permalink: /related.html
 # include CollectionBuilder info at bottom
 credits: false
 accessibility: false

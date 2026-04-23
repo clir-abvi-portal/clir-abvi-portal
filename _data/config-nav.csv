@@ -1,16 +1,14 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/resources.html,
+Browse,/browse.html,
 Visualizations,
 Subjects,/subjects.html,Visualizations
 Locations,/locations.html,Visualizations
 Map,/map.html,Visualizations
 Timeline,/timeline.html,Visualizations
 Data,/data.html,Visualizations
-Explore More,,
-Brief Biographies,/exhibit.html,Explore More
 Brief Biographies,/biographies/
-Related Materials,/partners.html,Explore More
+Related Materials,/related.html,
 About,,
 The Project,/project.html,About
 The Site,/site.html,About
