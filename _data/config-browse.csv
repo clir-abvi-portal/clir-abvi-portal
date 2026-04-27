@@ -12,3 +12,4 @@ genre,Genre,true
 type,,,true
 objectid,,,true,Identifier
 contributing_institution,Contributing Institution,,true,,Contributing Institution
+archival_collection,,,true,,Source
