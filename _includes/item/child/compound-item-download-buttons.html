@@ -9,7 +9,6 @@
     {% if page.display_template contains "complex" %}
         {% include item/iiif-modal.html viewer="uv" %}
     {% endif %}
-    {% if page.object_transcript %}<button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTranscript" aria-expanded="false" aria-controls="collapseTranscript">View Transcript</button>{% endif %}
     {% if page.date %}{%- capture year -%}{% if page.date contains "-" %}{{ page.date | split: "-" | first }}{% elsif page.date contains "/" %}{{ page.date | split: "/" | last }}{% else %}{{ page.date }}{% endif %}{%- endcapture -%}
     <a href="{{ year | strip | prepend: '/timeline.html#y' | relative_url }}" class="btn btn-outline-primary">View on Timeline</a>{% endif %}
     {% if page.latitude and page.longitude %}
@@ -19,7 +18,9 @@
         <button class="btn btn-outline-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
             Download
         </button>
-        <ul class="dropdown-menu">
+        <ul class="dropdown-menu custom-download-dropdown">
+            {% if page.object_pdf %}
+            <li><a target="_blank" rel="noopener" href="{{ page.object_pdf | relative_url }}" class="dropdown-item">Download PDF</a></li>{% endif %}
             {% if page.object_location %}<li><a target="_blank" rel="noopener" href="{{ page.object_location | relative_url }}" class="dropdown-item">{{ page.title }} ({{ page.format | split: '/' | last | upcase }})</a></li>{% endif %}
             {% for child in children %}
             {% unless child.object_location == nil %}
@@ -34,17 +35,3 @@
         </ul>
     </div>
 </div>
-{% if page.object_transcript %}
-<div class="collapse mt-3" id="collapseTranscript">
-    <div class="card card-body text-start">
-        {% assign transcript_type = page.object_transcript | slice: 0,1 %}
-        {% if transcript_type == '/' %}
-        {% assign transcript_location = page.object_transcript | remove_first: '/' %}
-        {% assign transcript = site.pages | where: 'path', transcript_location | first %}
-        {{ transcript.content | markdownify }}
-        {% else %}
-        {{ page.object_transcript | markdownify }}
-        {% endif %}
-    </div>
-</div>
-{% endif %} 
