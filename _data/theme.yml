@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: objects/banner2.jpg
+featured-image: https://isuu00001library102stg.blob.core.windows.net/digital-objects/abvi/images/banner2.jpg
 featured-image-alt-text: homepage banner featuring a variety of photographs and The Bystander newspaper from the site (objectid will be automatic from metadata)
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
