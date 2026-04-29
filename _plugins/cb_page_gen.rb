@@ -41,6 +41,48 @@ module CollectionBuilderPageGenerator
       #
       ######
 
+      ######
+
+      #########
+      #
+      # Template Compatibility for Combined Metadata
+      # 
+      # If metadata config contains semicolons, create combined data for template access
+      #
+      metadata_config = site.config['metadata']
+      if metadata_config && metadata_config.include?(';')
+        # Parse semicolon-separated list
+        csv_files = metadata_config.split(';').map(&:strip)
+        
+        # Combine all CSV data for templates
+        template_combined_data = []
+        csv_files.each do |csv_file|
+          
+          # Check if CSV file exists in site.data
+          if site.data.key?(csv_file)
+            csv_data = site.data[csv_file]
+            
+            # Add source information to each record
+            csv_data.each do |record|
+              # Create a copy to avoid modifying original
+              enhanced_record = record.dup
+              enhanced_record['_source_csv'] = csv_file
+              template_combined_data << enhanced_record
+            end
+            
+          end
+        end
+        
+        # Store combined data with cleaned metadata key for template access
+        template_combined_key = metadata_config.gsub(/[^a-zA-Z0-9_]/, '_')
+        site.data[template_combined_key] = template_combined_data
+        
+        # Also store under the exact metadata config key for direct template access
+        site.data[metadata_config] = template_combined_data
+      end
+      
+      ######
+
       # get optional configuration from _config.yml, or create a single default one from CB metadata setting
       configure_gen = site.config['page_gen'] || [{ 'data' => data_file_default }]
 
@@ -57,6 +99,43 @@ module CollectionBuilderPageGenerator
         extension = data_config['extension'] || extension_default
         filter = data_config['filter'] || filter_default
         filter_condition = data_config['filter_condition'] || filter_condition_default
+        
+        # Check if this page_gen entry itself has semicolon-separated data (for combined metadata)
+        if data_file && data_file.include?(';')
+          # Parse semicolon-separated list for this specific entry
+          entry_csv_files = data_file.split(';').map(&:strip)
+          
+          puts color_text("Notice cb_page_gen: Combining #{entry_csv_files.size} CSV files for page_gen entry: #{entry_csv_files.join(', ')}", :green)
+          
+          # Combine CSV data for this entry
+          entry_combined_data = []
+          entry_csv_files.each do |csv_file|
+            
+            # Check if CSV file exists in site.data
+            if site.data.key?(csv_file)
+              csv_data = site.data[csv_file]
+              
+              # Add source information to each record
+              csv_data.each do |record|
+                # Create a copy to avoid modifying original
+                enhanced_record = record.dup
+                enhanced_record['_source_csv'] = csv_file
+                entry_combined_data << enhanced_record
+              end
+              
+              puts color_text("  - Loaded #{csv_data.size} records from '#{csv_file}' for this entry", :green)
+            else
+              puts color_text("Warning cb_page_gen: CSV file '#{csv_file}' not found in _data directory", :yellow)
+            end
+          end
+          
+          # Store combined data for this specific entry
+          entry_combined_key = entry_csv_files.join('_').gsub(/[^a-zA-Z0-9_]/, '_')
+          site.data[entry_combined_key] = entry_combined_data
+          
+          # Update data_file to point to the combined data
+          data_file = entry_combined_key
+        end
 
         # check if data value uses .csv extension, if so provide error message and skip. This avoids common CB error.
         if data_file.split('.')[1] == "csv"
