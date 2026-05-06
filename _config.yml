@@ -35,20 +35,20 @@ author: Iowa State University
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
 # For multiple CSV files, separate with semicolons: "file1;file2;file3"
-metadata: bystander-early-temp;partners-aami-shsi
+metadata: bystander-early-temp;partners-aami-shsi # add combined metadata here, separated by semicolon
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # add combined metadata separated by semicolon to the first data field. Each spreadsheet in the combined field should also be the single value of another data field that includes other variables beneath it (including template: 'manifest'), to generate the IIIF manifests for that spreadsheet. The value for the last data field should be 'biographies', which is used to generate the biographies page.
 page_gen:
-  - data: 'bystander-early-temp;partners-aami-shsi' # add combined metadata here
-  - data: 'partners-aami-shsi' # add metadata 1 here
+  - data: 'bystander-early-temp;partners-aami-shsi' # add combined metadata here, separated by semicolon
+  - data: 'bystander-early-temp' # add metadata 1 here
     template: 'manifest'
     template_override: true
     name: 'objectid'
     dir: 'manifests'
     extension: 'json' 
     filter: 'objectid'
-  - data: 'bystander-early-temp' # add metadata 2 here
+  - data: 'partners-aami-shsi' # add metadata 2 here
     template: 'manifest'
     template_override: true
     name: 'objectid'
