@@ -34,10 +34,10 @@ format,Format,,,DCTERMS.format,encodingFormat
 digital_collection,Digital Collection Title,,,DCTERMS.relation,
 digital_collection_ark,Digital Collection Permalink,,true,DCTERMS.relation,
 relation,Related Resource,,,DCTERMS.relation,
-avian_id,Avian Identifier,,,DCTERMS.identifier,
 objectid,Identifier,,,DCTERMS.identifier,
 filename,Filename,,,DCTERMS.identifier,
 ark,Item Permalink,,true,DCTERMS.identifier,
 rights,,,,DCTERMS.rights,
 rightsstatement,,,true,DCTERMS.rights,license
 disclaimer,Disclaimer,,,DCTERMS.description,
+metadata_license,Metadata License,,,DCTERMS.relation,license
