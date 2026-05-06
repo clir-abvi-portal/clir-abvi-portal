@@ -38,23 +38,24 @@ author: Iowa State University
 metadata: bystander-early-temp;partners-aami-shsi
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
+# add combined metadata separated by semicolon to the first data field. Each spreadsheet in the combined field should also be the single value of another data field that includes other variables beneath it (including template: 'manifest'), to generate the IIIF manifests for that spreadsheet. The value for the last data field should be 'biographies', which is used to generate the biographies page.
 page_gen:
-  - data: 'bystander-early-temp;partners-aami-shsi'
-  - data: 'partners-aami-shsi'
+  - data: 'bystander-early-temp;partners-aami-shsi' # add combined metadata here
+  - data: 'partners-aami-shsi' # add metadata 1 here
     template: 'manifest'
     template_override: true
     name: 'objectid'
     dir: 'manifests'
     extension: 'json' 
     filter: 'objectid'
-  - data: 'bystander-early-temp'
+  - data: 'bystander-early-temp' # add metadata 2 here
     template: 'manifest'
     template_override: true
     name: 'objectid'
     dir: 'manifests'
     extension: 'json' 
     filter: 'objectid'
-  - data: 'biographies'
+  - data: 'biographies' # this is reserved for biographies
     template: 'biographies'
     name: 'objectid'
     dir: 'biographies'
