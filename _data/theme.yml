@@ -14,6 +14,8 @@ featured-image-alt-text: homepage banner featuring a variety of photographs and 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is top
+# optional: add content alert on site pages to indicate a message to users (message content should be edited in _includes/index/content-alert.html)
+content-alert: true # true / false
 
 
 ##########
