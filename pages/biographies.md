@@ -1,7 +1,7 @@
 ---
 title: Brief Biographies
 layout: page
-permalink: /biographies
+permalink: /biographies.html
 ---
 <div class="biographies-content" markdown="1">
 
