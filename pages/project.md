@@ -14,7 +14,7 @@ accessibility: false
 {% include feature/nav-menu.html sections="Overview;Support;Project Summary" %}
 
 ## Overview
-The Amplifying Black Voices of Iowa is an online portal providing unified access to a selection of digitized resources from throughout Iowa. Resources include newspapers, manuscripts, oral histories, photographs, and artifacts dating back to the mid-1800s. They are held in the collections of all participating organizations: Iowa State University Library, African American Museums of Iowa, Des Moines Public Library, Fort Des Moines Museum and Education Center, Grinnell College Libraries, Grout Museum District, Nodaway Valley Historical Museum, and State Historical Society of Iowa.
+The Amplifying Black Voices in Iowa is an online portal providing unified access to a selection of digitized resources from throughout Iowa. Resources include newspapers, manuscripts, oral histories, photographs, and artifacts dating back to the mid-1800s. They are held in the collections of all participating organizations: Iowa State University Library, African American Museums of Iowa, Des Moines Public Library, Fort Des Moines Museum and Education Center, Grinnell College Libraries, Grout Museum District, Nodaway Valley Historical Museum, and State Historical Society of Iowa.
 
 ## Project Summary
 
