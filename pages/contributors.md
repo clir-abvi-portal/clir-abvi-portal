@@ -116,16 +116,16 @@ The State Historical Society of Iowa is the official repository for the state of
 ### African American Museum of Iowa
 
 Felicite Wolfe, Curator & Collections Manager and grant co-Principal Investigator   
-Katharine Cummings, Digitization Intern
+Katharine Cummings, Digitization Intern  
 
 ### Des Moines Public Library
 
-Catherine A. Beane, Librarian
+Catherine A. Beane, Librarian  
 
 ### Fort Des Moines Museum and Education Center
-Gialan Williams
-Jeff Kluever
-Matthew Harvey
+Gialan Williams  
+Jeff Kluever  
+Matthew Harvey  
 
 ### Grinnell College
 
@@ -138,45 +138,43 @@ Catreva Manning, Archivist
 
 ### Iowa State University
 
-A special thanks to the dedicated support from June Somsanith, our CLIR Grant Assistant. 
-
 Amber Bertin, AV Preservation Librarian  
-Amy Bishop, grant co-Principal Investigator
-Heather Campbell, Head of Metadata Services
-Kelly Hyland, Metadata Librarian
-Hannah Scates Kettler, Associate University Librarian for Academic ServicesHeather Campbell, Head of Metadata Services
-Melea Reicks Licht, Communications Manager
-Lisa Muccigrosso, Interim Head of Preservation  
+Amy Bishop, grant co-Principal Investigator  
+Heather Campbell, Head of Metadata Services  
+Kelly Hyland, Metadata Librarian  
+Hannah Scates Kettler, Associate University Librarian for Academic Services  
+Melea Reicks Licht, Communications Manager  
+Lisa Muccigrosso, Interim Head of Preservation   
 Melinda Moeller, Preservation Senior Conservation Assistant  
-Mindy McCoy, Digitization Specialist
-Ben Rearik,, Web User Experience Specialist
-Emily Stanley, Library Conservator
-Brent Swanson, Budget and Finance Manager
-Haylee Shephard, Graphic Designer
-June Somsanith, CLIR Grant Assistant  
-Laura Sullivan, grant co-Principal Investigator and Digital Collections Librarian
+Mindy McCoy, Digitization Specialist  
+Ben Rearik, Web User Experience Specialist  
+Emily Stanley, Library Conservator  
+Brent Swanson, Budget and Finance Manager  
+Haylee Shephard, Graphic Designer  
+June Somsanith, CLIR Grant Assistant    
+Laura Sullivan, grant co-Principal Investigator and Digital Collections Librarian  
 Hema Thulsidhos, Metadata Projects Librarian  
-Olivia Wikle, Head of Digital Scholarship and Initiatives
+Olivia Wikle, Head of Digital Scholarship and Initiatives  
 
-Logan Bettis, Digital Collections student assistant
-Aman Singh, Digital Collections student assistant 
-Mahesh Babu Tasil, Digital Collections student assistant 
-Jia Wu, Digital Collections student assistant 
+Logan Bettis, Digital Collections student assistant  
+Aman Singh, Digital Collections student assistant  
+Mahesh Babu Tasil, Digital Collections student assistant  
+Jia Wu, Digital Collections student assistant  
 
 Thanks to the following former staff members who helped during the early stages of the grant:  
 Sonya Barron  
 Daniel Hartwig  
 Kathy Parsons  
-Rosie Rowe
+Rosie Rowe  
 Nacuya Rucker 
-Tammy Troup
+Tammy Troup  
 
 ### Nodaway Valley Historical Museum
 
-Trisha Bergren
+Trisha Bergren  
 
 ### State Historical Society of Iowa
 
 Kay Coats, Collections Coordinator  
 Anthony Jahn, State Archivist, Library & Archives Bureau Chief  
-Leo Landis, State Curator for State Historical Society of Iowa (2013-2024), Wisconsin Historical Society starting in 2025
+Leo Landis, State Curator for State Historical Society of Iowa (2013-2024), Wisconsin Historical Society starting in 2025  
