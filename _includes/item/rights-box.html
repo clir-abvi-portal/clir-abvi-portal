@@ -10,8 +10,17 @@
             {% if page.rights %}<dt>Rights:</dt>
             <dd>{{ page.rights }}</dd>{% endif %}
             {% if page.rightsstatement %}<dt>Standardized Rights:</dt>
-            <dd><a href="{{ page.rightsstatement }}">{{ page.rightsstatement }}</a>
-            </dd>{% endif %}
+                {% assign rightsstatements = page.rightsstatement | split: ";" %}
+                <dd>
+                    <ul class="list-unstyled">
+                        {% for rights_url in rightsstatements %}
+                        {%- if rights_url != "" and rights_url != blank -%}
+                        <li><a href="{{ rights_url }}">{{ rights_url }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </dd>  
+            {% endif %}
         </dl>
     </div>
 </div>
