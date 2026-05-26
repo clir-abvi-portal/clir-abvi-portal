@@ -9,7 +9,7 @@ accessibility: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html heading="About the Site" text=false objectid="objects/Banner2.jpg" %} 
+{% include feature/jumbotron.html heading="About the Site" text=false objectid="objects/banner2.jpg" %} 
 
 {% include feature/nav-menu.html sections="What to Expect;Metadata;Audiovisual Materials;Please Note;Contact" %}
 
