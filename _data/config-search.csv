@@ -28,9 +28,9 @@ format,true,false
 digital_collection,true,false
 digital_collection_ark,true,false
 relation,true,false
-avian_id,true,false
 objectid,true,false
 filename,true,false
 rights,true,false
 rightsstatement,true,false
 disclaimer,true,true
+accessibility_note,true,false
