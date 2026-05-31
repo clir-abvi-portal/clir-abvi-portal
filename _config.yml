@@ -40,8 +40,8 @@ metadata: newspapers;partners-metadata # add combined metadata here, separated b
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # add combined metadata separated by semicolon to the first data field. Each spreadsheet in the combined field should also be the single value of another data field that includes other variables beneath it (including template: 'manifest'), to generate the IIIF manifests for that spreadsheet. The value for the last data field should be 'biographies', which is used to generate the biographies page.
 page_gen:
-  - data: 'newspapers;partners-metadata' # add combined metadata here, separated by semicolon
-  - data: 'newspapers' # add metadata 1 here
+  - data: 'newspapers-metadata;partners-metadata' # add combined metadata here, separated by semicolon
+  - data: 'newspapers-metadata' # add metadata 1 here
     template: 'manifest'
     template_override: true
     name: 'objectid'
